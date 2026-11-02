@@ -1,0 +1,52 @@
+name: Scrape injury reports
+
+on:
+  schedule:
+    # Reports start 3 days before kickoff (Monday for Thursday games) and end with game day.
+    - cron: "0 */3 * * 1-6" # every 3h, Mon-Sat UTC
+    - cron: "0 0-6/3 * * 0" # late-Saturday (US) game day reports land early Sunday UTC
+    - cron: "30 10 * * *" # daily archive backfill
+  workflow_dispatch:
+    inputs:
+      conferences:
+        description: "Space-separated conference codes (blank = all)"
+        required: false
+      backfill:
+        description: "Pull past weeks from archives instead of the current report"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run scrapers
+        run: python -m scrapers ${{ (inputs.backfill || github.event.schedule == '30 10 * * *') && '--backfill' || '' }} ${{ inputs.conferences }}
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          D1_DATABASE_ID: ${{ secrets.D1_DATABASE_ID }}
+
+      - name: Commit data changes
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: scrape $(date -u +%F)"
+          git push

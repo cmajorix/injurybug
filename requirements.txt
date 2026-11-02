@@ -1,0 +1,2 @@
+requests
+tzdata  # time zone database for zoneinfo; Windows has none built in
