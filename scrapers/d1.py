@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import json
 import os
+from dataclasses import asdict
 from datetime import UTC, datetime
 
 import requests
@@ -71,6 +73,23 @@ ON CONFLICT (injury_id, label) DO NOTHING
 """
 
 
+# Fills position/number on rows that lack them (archive backfills) from the current roster.
+# One statement per ROSTER_CHUNK players, passed as JSON; only rows actually filled are written.
+ROSTER_SQL = """
+UPDATE injuries SET
+    position = coalesce(injuries.position, r.value ->> '$.position'),
+    number = coalesce(injuries.number, r.value ->> '$.number')
+FROM json_each(?) AS r
+WHERE injuries.conference = ?
+  AND injuries.team = r.value ->> '$.team'
+  AND injuries.player = r.value ->> '$.player'
+  AND ((injuries.position IS NULL AND r.value ->> '$.position' IS NOT NULL)
+    OR (injuries.number IS NULL AND r.value ->> '$.number' IS NOT NULL))
+"""
+
+ROSTER_CHUNK = 250  # keeps each JSON parameter around 20 KB
+
+
 def configured() -> bool:
     return all(os.environ.get(k) for k in ("CLOUDFLARE_ACCOUNT_ID", "D1_DATABASE_ID", "CLOUDFLARE_API_TOKEN"))
 
@@ -122,6 +141,11 @@ def upsert(result: ParseResult) -> int:
                 r.conference, r.team, r.player, r.game_date,
             ]))
         groups.append(group)
+    if result.team_reports:  # every roster comes from a released team report
+        conference = result.team_reports[0].conference
+        for i in range(0, len(result.roster), ROSTER_CHUNK):
+            chunk = [asdict(e) for e in result.roster[i:i + ROSTER_CHUNK]]
+            groups.append([(ROSTER_SQL, [json.dumps(chunk), conference])])
     # Team reports go last so presumed-Available never runs ahead of the players a report lists.
     for t in result.team_reports:
         groups.append([

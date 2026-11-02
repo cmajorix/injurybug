@@ -102,9 +102,20 @@ class TeamReport:
 
 
 @dataclass
+class RosterEntry:
+    """A rostered player, injured or not; fills position/number on rows from sources that omit them."""
+
+    team: str
+    player: str
+    position: str | None
+    number: str | None
+
+
+@dataclass
 class ParseResult:
     records: list[InjuryRecord] = field(default_factory=list)
     team_reports: list[TeamReport] = field(default_factory=list)
+    roster: list[RosterEntry] = field(default_factory=list)  # not written to data/ (it's the full roster)
     warnings: list[str] = field(default_factory=list)
 
 

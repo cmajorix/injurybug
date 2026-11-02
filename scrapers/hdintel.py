@@ -11,6 +11,7 @@ from .base import (
     BaseScraper,
     InjuryRecord,
     ParseResult,
+    RosterEntry,
     StatusUpdate,
     TeamReport,
 )
@@ -36,6 +37,9 @@ EXEMPT = "Exempt"
 
 # ReportType for an upcoming game whose first report isn't out yet.
 PENDING = "Report Pending"
+
+# Archive cell values meaning "not listed in this report" (or the report wasn't issued).
+NO_STATUS = {"", "-"}
 
 
 def released_at(date: str | None, time: str | None, tz: str | None) -> str | None:
@@ -105,16 +109,17 @@ class HDIntelScraper(BaseScraper):
                 ))
                 for row in team["rows"]:
                     rows_seen += 1
-                    # Available players are implied by the team report; Exempt ones aren't reported on.
-                    if row["status"] in ("Available", EXEMPT):
-                        continue
                     match = NAME_RE.match(row["name"])
                     if match:
                         position, number, name = match["position"], match["number"], match["player"]
+                        result.roster.append(RosterEntry(team_name, name, position, number))
                     else:  # unknown format: keep the whole string rather than guess
                         unparsed += 1
                         result.warnings.append(f"unparsed name {row['name']!r} ({team_name})")
                         position, number, name = None, None, row["name"].strip()
+                    # Available players are implied by the team report; Exempt ones aren't reported on.
+                    if row["status"] in ("Available", EXEMPT):
+                        continue
                     # The public page files exemptStatus "Out" under OUT (SEASON).
                     status = "Out for Season" if row.get("exemptStatus") == "Out" else row["status"]
                     result.records.append(InjuryRecord(
@@ -145,7 +150,7 @@ class HDIntelScraper(BaseScraper):
             updates = [
                 StatusUpdate(label=label, status=row[label])
                 for label in REPORT_LABELS
-                if row.get(label) and row[label] != EXEMPT
+                if (row.get(label) or "").strip() not in NO_STATUS | {EXEMPT}
             ]
             if not updates:
                 continue
