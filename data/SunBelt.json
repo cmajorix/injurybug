@@ -302,7 +302,7 @@
           "status_raw": "Out for Season"
         }
       ],
-      "position": null,
+      "position": "RB",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -333,7 +333,7 @@
       "opponent": "Southern Miss",
       "game_date": "2026-11-05",
       "label": "Initial",
-      "released_at": "2026-11-03T01:07:59Z"
+      "released_at": "2026-11-03T05:17:29Z"
     },
     {
       "conference": "SunBelt",
@@ -341,7 +341,7 @@
       "opponent": "James Madison",
       "game_date": "2026-11-05",
       "label": "Initial",
-      "released_at": "2026-11-03T01:07:59Z"
+      "released_at": "2026-11-03T05:17:29Z"
     }
   ]
 }
