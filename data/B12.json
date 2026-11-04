@@ -1,6 +1,480 @@
 {
   "conference": "B12",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Caleb Smith",
+      "number": "20",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Cam Chapa",
+      "number": "13",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Cole Rusk",
+      "number": "14",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Ezra Funa",
+      "number": "92",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Grayson Stovall",
+      "number": "78",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Ismail Mahdi",
+      "number": "21",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Jay'Vion Cole",
+      "number": "8",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Kevin Moorer Jr.",
+      "number": "38",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Max Harris",
+      "number": "5",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "R.J. Mosley",
+      "number": "2",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Shane King",
+      "number": "8",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Swayde Griffin",
+      "number": "28",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Zac Siulepa",
+      "number": "96",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Braden Bach",
+      "number": "89",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Cade Bennett",
+      "number": "60",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Cooper Powers",
+      "number": "77",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Cooper Reid",
+      "number": "84",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Devondre McGee",
+      "number": "17",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Jeremy Payne",
+      "number": "26",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Jon Denman",
+      "number": "2",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Julius Simms",
+      "number": "7",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Keagan Cunningham",
+      "number": "83",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Samir Camacho",
+      "number": "55",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Terry Shelton",
+      "number": "15",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "label": "Initial",
+      "released_at": "2026-11-04T03:00:00Z"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "label": "Initial",
+      "released_at": "2026-11-04T03:00:00Z"
+    }
+  ]
 }

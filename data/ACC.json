@@ -1,6 +1,423 @@
 {
   "conference": "ACC",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Abel Hoopii",
+      "number": "58",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Ahmaad Moses",
+      "number": "7",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Carterrious Brown",
+      "number": "11",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "I'Zayah Young",
+      "number": "25",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Ira Singleton IV",
+      "number": "9",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Jaelyn Davis-Robinson",
+      "number": "13",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Link Rhodes",
+      "number": "24",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Trey Wilson",
+      "number": "14",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Tyren Polley Jr.",
+      "number": "10",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Xavier Wright",
+      "number": "46",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Chanz Wiggins",
+      "number": "7",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Emmett Laws",
+      "number": "99",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "George Ballance",
+      "number": "25",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Justin Terry",
+      "number": "72",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Lucas Austin",
+      "number": "57",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Luke Stuewe",
+      "number": "83",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Marlen Bright",
+      "number": "74",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Nathaniel Wright",
+      "number": "50",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Randy Adirika",
+      "number": "36",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Shamarius \"Snook\" Peterkin",
+      "number": "15",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Thomas Williams",
+      "number": "23",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-06",
+      "label": "Initial",
+      "released_at": "2026-11-04T02:00:00Z"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "opponent": "SMU",
+      "game_date": "2026-11-06",
+      "label": "Initial",
+      "released_at": "2026-11-04T02:00:00Z"
+    }
+  ]
 }
