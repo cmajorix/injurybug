@@ -34705,6 +34705,348 @@
       "position": null,
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "BJ Thurman",
+      "number": "87",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Ca'Lil Valentine",
+      "number": "5",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Carter Smith",
+      "number": "48",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Demetrius John",
+      "number": "54",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Grant Beerman",
+      "number": "33",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Jayshon Platt",
+      "number": "1",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Kai Pritchard",
+      "number": "53",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "TJ McMillen",
+      "number": "55",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Tywan Cox",
+      "number": "32",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Anthony Jones Jr.",
+      "number": "5",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Gabe Moore",
+      "number": "95",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Gunnar Gottula",
+      "number": "77",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Jacob Bower",
+      "number": "54",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Jamir Conn",
+      "number": "4",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Jase Reynolds",
+      "number": "52",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Kahmir Prescott",
+      "number": "19",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Larry Miles",
+      "number": "17",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Vincent Genatone",
+      "number": "30",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
     }
   ],
   "team_reports": [
@@ -37618,6 +37960,22 @@
       "opponent": "Iowa",
       "game_date": "2026-10-31",
       "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-06",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "opponent": "Illinois",
+      "game_date": "2026-11-06",
+      "label": "Initial",
       "released_at": null
     }
   ]
