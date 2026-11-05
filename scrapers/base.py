@@ -117,6 +117,7 @@ class ParseResult:
     team_reports: list[TeamReport] = field(default_factory=list)
     roster: list[RosterEntry] = field(default_factory=list)  # not written to data/ (it's the full roster)
     warnings: list[str] = field(default_factory=list)
+    from_archive: bool = False  # archives can't tell Out from Out for Season, so d1 won't downgrade on their word
 
 
 class ValidationError(Exception):

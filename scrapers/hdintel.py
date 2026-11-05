@@ -141,7 +141,7 @@ class HDIntelScraper(BaseScraper):
     def parse_backfill(self, raw: Any) -> ParseResult:
         # {"data": [row]}; one row per listed player per game, one column per report label.
         # Only listed players appear, so team reports cover teams with at least one listing.
-        result = ParseResult()
+        result = ParseResult(from_archive=True)
         source_url = f"{API}/get-archive-public"
         reports: dict[tuple[str, str, str], TeamReport] = {}
         for row in raw["data"]:

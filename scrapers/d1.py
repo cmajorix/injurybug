@@ -36,7 +36,6 @@ WHERE (excluded.number IS NOT NULL AND number IS NOT excluded.number)
    OR (excluded.opponent IS NOT NULL AND opponent IS NOT excluded.opponent)
    OR (excluded.week IS NOT NULL AND week IS NOT excluded.week)
    OR (excluded.injury IS NOT NULL AND injury IS NOT excluded.injury)
-   OR source_url IS NOT excluded.source_url
 """
 
 # Only attaches to an injury row that already exists, so an Available-only record updates a
@@ -49,8 +48,11 @@ ON CONFLICT (injury_id, label) DO UPDATE SET
     status = excluded.status,
     status_raw = excluded.status_raw,
     status_rank = excluded.status_rank
-WHERE status IS NOT excluded.status OR status_raw IS NOT excluded.status_raw
+WHERE (status IS NOT excluded.status OR status_raw IS NOT excluded.status_raw)
 """
+
+# The archive has no exemptStatus, so it reports a live Out for Season as plain Out.
+ARCHIVE_STATUS_SQL = STATUS_SQL + "  AND NOT (status = 'Out for Season' AND excluded.status = 'Out')\n"
 
 TEAM_REPORT_SQL = """
 INSERT INTO team_reports (conference, team, opponent, game_date, label, seq, released_at, first_seen_at)
@@ -75,16 +77,25 @@ ON CONFLICT (injury_id, label) DO NOTHING
 
 # Fills position/number on rows that lack them (archive backfills) from the current roster.
 # One statement per ROSTER_CHUNK players, passed as JSON; only rows actually filled are written.
+# CROSS JOIN keeps the roster as the outer loop, so each entry is one lookup on the unique key, and
+# MATERIALIZED keeps that join from being flattened into the UPDATE. Left to itself the planner
+# scans the conference's injuries once per entry: millions of rows read per run.
 ROSTER_SQL = """
+WITH m AS MATERIALIZED (
+    SELECT i.id, r.value ->> '$.position' AS position, r.value ->> '$.number' AS number
+    FROM json_each(?) AS r
+    CROSS JOIN injuries AS i
+    WHERE i.conference = ?
+      AND i.team = r.value ->> '$.team'
+      AND i.player = r.value ->> '$.player'
+      AND ((i.position IS NULL AND r.value ->> '$.position' IS NOT NULL)
+        OR (i.number IS NULL AND r.value ->> '$.number' IS NOT NULL))
+)
 UPDATE injuries SET
-    position = coalesce(injuries.position, r.value ->> '$.position'),
-    number = coalesce(injuries.number, r.value ->> '$.number')
-FROM json_each(?) AS r
-WHERE injuries.conference = ?
-  AND injuries.team = r.value ->> '$.team'
-  AND injuries.player = r.value ->> '$.player'
-  AND ((injuries.position IS NULL AND r.value ->> '$.position' IS NOT NULL)
-    OR (injuries.number IS NULL AND r.value ->> '$.number' IS NOT NULL))
+    position = coalesce(injuries.position, m.position),
+    number = coalesce(injuries.number, m.number)
+FROM m
+WHERE injuries.id = m.id
 """
 
 ROSTER_CHUNK = 250  # keeps each JSON parameter around 20 KB
@@ -102,7 +113,8 @@ def _post(body: dict) -> list[dict]:
         headers={"Authorization": f"Bearer {os.environ['CLOUDFLARE_API_TOKEN']}"},
         timeout=30,
     )
-    res.raise_for_status()
+    if not res.ok:  # the body says why (e.g. a daily limit); raise_for_status would drop it
+        raise RuntimeError(f"D1 query failed: HTTP {res.status_code}: {res.text[:500]}")
     data = res.json()
     if not data.get("success"):
         raise RuntimeError(f"D1 query failed: {data.get('errors')}")
@@ -136,7 +148,7 @@ def upsert(result: ParseResult) -> int:
                 r.game_date, r.week, r.injury, r.source_url, now,
             ]))
         for u in r.updates:
-            group.append((STATUS_SQL, [
+            group.append((ARCHIVE_STATUS_SQL if result.from_archive else STATUS_SQL, [
                 seq(u.label), u.label, u.status, u.status_raw, u.rank,
                 r.conference, r.team, r.player, r.game_date,
             ]))

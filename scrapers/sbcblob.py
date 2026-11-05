@@ -7,8 +7,8 @@ from .base import BaseScraper, InjuryRecord, ParseResult, StatusUpdate, TeamRepo
 FEED_URL = "https://sbcautostorage.blob.core.windows.net/availability-reports/{feed}/prod/report.json"
 
 # game["notes"] -> report label used across sources (base.REPORT_LABELS).
-# Only these two have been seen; unknown notes pass through unchanged.
-NOTES_LABELS = {"Initial Report": "Initial", "Game Day Report": "Game Day"}
+# Only these have been seen; unknown notes pass through unchanged.
+NOTES_LABELS = {"Advance Report": "Initial", "Initial Report": "Initial", "Game Day Report": "Game Day"}
 
 NAME_SUFFIXES = {"Jr", "Jr.", "Sr", "Sr.", "II", "III", "IV", "V"}
 
