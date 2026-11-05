@@ -26943,6 +26943,1602 @@
       "position": null,
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Blake Scriber",
+      "number": "60",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Cedric Franklin II",
+      "number": "18",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Cole Coonrod",
+      "number": "87",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Derion Talbert",
+      "number": "80",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Kendrick Gilbert",
+      "number": "99",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Mason Riggins",
+      "number": "86",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Ryan Eldridge",
+      "number": "65",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Sean Ward",
+      "number": "89",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Tobi Adewoyin",
+      "number": "2",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "player": "Zach Bandy",
+      "number": "75",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Angel Flores",
+      "number": "7",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Ed Conoran",
+      "number": "7",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Hunter Zirkle",
+      "number": "6",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Jacob Booth",
+      "number": "69",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Joey VanWetzinga",
+      "number": "95",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Korver Demma",
+      "number": "5",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Langston Lewis",
+      "number": "20",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Tommy McIntosh",
+      "number": "15",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "player": "Xavier White",
+      "number": "11",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Adham Abouraya",
+      "number": "62",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Antonio Solares-Vitti",
+      "number": "31",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Barry Manning",
+      "number": "3",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Brady Shelton",
+      "number": "49",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Brandon Simmons Jr.",
+      "number": "94",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Caleb Coley",
+      "number": "16",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Cole Dellinger",
+      "number": "72",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Cole Powell",
+      "number": "77",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Davontey Oliver",
+      "number": "28",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Jabari Monds",
+      "number": "35",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Jackson Higgins",
+      "number": "79",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Jackson Holt",
+      "number": "16",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Jahbarri Frost",
+      "number": "97",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Jaivian Norman",
+      "number": "8",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Jefferson Adam",
+      "number": "85",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Joshua Anderson",
+      "number": "66",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Kadin Bailey",
+      "number": "45",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Nily Taylor",
+      "number": "76",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Noah Kim",
+      "number": "1",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Payton Kokaly",
+      "number": "43",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Ronn Hardin",
+      "number": "88",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Samuel Adjin",
+      "number": "70",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Tyler Brumfield",
+      "number": "71",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Zach Mowchan",
+      "number": "11",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Massachusetts",
+      "player": "Dallas Elliott",
+      "number": "17",
+      "opponent": "Ball St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Massachusetts",
+      "player": "Greg Klingensmith",
+      "number": "78",
+      "opponent": "Ball St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Massachusetts",
+      "player": "Jordan Washington",
+      "number": "0",
+      "opponent": "Ball St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Massachusetts",
+      "player": "Matt Ogunniyi",
+      "number": "18",
+      "opponent": "Ball St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Massachusetts",
+      "player": "Zachary Betts",
+      "number": "17",
+      "opponent": "Ball St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Ajon Bryant",
+      "number": "9",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Austin Aten",
+      "number": "94",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Austin Chambers",
+      "number": "90",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Bryson Summers",
+      "number": "71",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Caleb Reese",
+      "number": "29",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Carson Conklin",
+      "number": "17",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Curron Borders",
+      "number": "14",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Davion Godley",
+      "number": "25",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Davis May",
+      "number": "68",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Derek Houston",
+      "number": "10",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Dionte Thornton",
+      "number": "2",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Dylan Gooden",
+      "number": "17",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Dylan Spencer",
+      "number": "79",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Jack Hodge",
+      "number": "86",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Jadakiss Vaokakala",
+      "number": "96",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Jiah Walls",
+      "number": "28",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Jordan Williams",
+      "number": "16",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Kyle Koontz",
+      "number": "82",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Matthew Auau",
+      "number": "81",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Naytel Mitchell",
+      "number": "25",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Richard McKay",
+      "number": "78",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "player": "Will Weber",
+      "number": "95",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Cam Gwinn",
+      "number": "41",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Connor Walendzak",
+      "number": "8",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Corey Smith",
+      "number": "20",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Dane Nauman",
+      "number": "27",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Emilio Duran",
+      "number": "36",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Grant Zimmerly",
+      "number": "63",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Kari Jackson",
+      "number": "13",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Laith Shamma",
+      "number": "91",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Langston Long",
+      "number": "6",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Luke Rector",
+      "number": "50",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Nathan Gersh",
+      "number": "36",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Sam Lee",
+      "number": "43",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Stephen Gales",
+      "number": "65",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "player": "Trenton Jones",
+      "number": "2",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
     }
   ],
   "team_reports": [
@@ -27847,6 +29443,54 @@
       "team": "Ohio",
       "opponent": "Akron",
       "game_date": "2026-11-03",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "MAC",
+      "team": "Ball St.",
+      "opponent": "Massachusetts",
+      "game_date": "2026-11-04",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "MAC",
+      "team": "Central Mich.",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-04",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "opponent": "Central Mich.",
+      "game_date": "2026-11-04",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "MAC",
+      "team": "Massachusetts",
+      "opponent": "Ball St.",
+      "game_date": "2026-11-04",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "MAC",
+      "team": "Sacramento St.",
+      "opponent": "Toledo",
+      "game_date": "2026-11-04",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "MAC",
+      "team": "Toledo",
+      "opponent": "Sacramento St.",
+      "game_date": "2026-11-04",
       "label": "Game Day",
       "released_at": null
     }

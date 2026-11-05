@@ -22895,6 +22895,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -22914,6 +22919,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -22931,6 +22941,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -22952,6 +22967,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -22969,6 +22989,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -22990,6 +23015,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -23007,6 +23037,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -23028,6 +23063,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -23045,6 +23085,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -23085,6 +23130,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -23102,6 +23152,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -23123,6 +23178,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -23140,6 +23200,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -23161,6 +23226,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -23178,6 +23248,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -23199,6 +23274,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -23216,6 +23296,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -23237,6 +23322,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -23254,6 +23344,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -23275,6 +23370,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -23292,6 +23392,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -23313,6 +23418,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -23332,6 +23442,2253 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Filiva'a Lokotui",
+      "number": "57",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Harry Hassmann",
+      "number": "89",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Kristian Ingman",
+      "number": "44",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Lyrik Rawls",
+      "number": "2",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Mikey Keene",
+      "number": "12",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Tana Alo-Tupuola",
+      "number": "58",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Uriah Neloms",
+      "number": "81",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Wade Helton",
+      "number": "64",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Brody Laga",
+      "number": "99",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Evan Johnson",
+      "number": "0",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Jonathan Kabeya",
+      "number": "2",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Joseph Douglas",
+      "number": "37",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Kendal Wall",
+      "number": "46",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "LJ Martin",
+      "number": "4",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Pierson Watson",
+      "number": "23",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Roger Saleapaga II",
+      "number": "2",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Seth Shigg",
+      "number": "39",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Siosefa Brown",
+      "number": "59",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Vincent Tautua",
+      "number": "52",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "player": "Ashton Jones",
+      "number": "87",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "player": "Cayden Tone",
+      "number": "61",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "player": "Devonte Tezino",
+      "number": "59",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "player": "Jacob Redding",
+      "number": "8",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "player": "Jamarion Richardson",
+      "number": "38",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "player": "Kyler Beaty",
+      "number": "12",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "player": "DaMari Witherspoon",
+      "number": "88",
+      "opponent": "Houston",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "player": "Devyn Zahursky",
+      "number": "83",
+      "opponent": "Houston",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "player": "Elijah Gunn",
+      "number": "92",
+      "opponent": "Houston",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "player": "Grant Edgington",
+      "number": "78",
+      "opponent": "Houston",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "player": "Montay Weedon",
+      "number": "44",
+      "opponent": "Houston",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "player": "Simeon Coleman",
+      "number": "31",
+      "opponent": "Houston",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "player": "Taran Tyo",
+      "number": "77",
+      "opponent": "Houston",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Braylon Edwards",
+      "number": "26",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Cree Thomas",
+      "number": "20",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Danny Scudero",
+      "number": "18",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Dylan Manuel",
+      "number": "99",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Kaleb Mathis",
+      "number": "13",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Micah Welch",
+      "number": "29",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Naeten Mitchell",
+      "number": "4",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Sean Kinney",
+      "number": "62",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Vili Taufatofua",
+      "number": "45",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "De'Marion Thomas",
+      "number": "90",
+      "opponent": "Cincinnati",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "JD Rhym",
+      "number": "3",
+      "opponent": "Cincinnati",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "Keany Parks",
+      "number": "24",
+      "opponent": "Cincinnati",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "Tyson Turner",
+      "number": "8",
+      "opponent": "Cincinnati",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Arnold Barnes III",
+      "number": "3",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Beni Ngoyi",
+      "number": "5",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Bryson Lamb",
+      "number": "99",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Connor Moberly",
+      "number": "5",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Ka'Mori Moore",
+      "number": "95",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Keyon Washington",
+      "number": "1",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Malaki Ta'ase",
+      "number": "98",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Omari Hayes",
+      "number": "9",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Trey Verdon",
+      "number": "44",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Bryson Hayes",
+      "number": "12",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Chase Jenkins",
+      "number": "10",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Cole Ballard",
+      "number": "15",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "David Santiago",
+      "number": "44",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Elijah Cannon",
+      "number": "10",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Grady Seyfert",
+      "number": "71",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Griffin Baker",
+      "number": "80",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Isaiah Marshall",
+      "number": "8",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Jack Utz",
+      "number": "35",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Jaden Harris",
+      "number": "12",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Jailen Butler",
+      "number": "9",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Jalen Dupree",
+      "number": "4",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Kasen Carpenter",
+      "number": "51",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Mason Ellis",
+      "number": "23",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Syeed Gibbs",
+      "number": "2",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Taylor Davis",
+      "number": "27",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "player": "Tyren Parker",
+      "number": "17",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "player": "Avery Johnson",
+      "number": "2",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "player": "DJ Ackerson Jr.",
+      "number": "16",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "player": "Eli Jackson",
+      "number": "88",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "player": "Jacob Knuth",
+      "number": "7",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "player": "Jay Harris",
+      "number": "9",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "player": "Koy Beasley",
+      "number": "0",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "player": "Lawson McGraw",
+      "number": "87",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Oklahoma St.",
+      "player": "Carson Kolb",
+      "number": "44",
+      "opponent": "Kansas St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Oklahoma St.",
+      "player": "Jaleel Johnson",
+      "number": "95",
+      "opponent": "Kansas St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Oklahoma St.",
+      "player": "Landon Dean",
+      "number": "88",
+      "opponent": "Kansas St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Oklahoma St.",
+      "player": "Quinton Hammonds",
+      "number": "7",
+      "opponent": "Kansas St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Oklahoma St.",
+      "player": "Tate Romney",
+      "number": "3",
+      "opponent": "Kansas St.",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Ansel Nedore",
+      "number": "33",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Jalen Jones",
+      "number": "6",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Jordan Church",
+      "number": "54",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Kenny Johnson",
+      "number": "2",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Malcolm Simmons",
+      "number": "11",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Marcus Ramon-Edwards",
+      "number": "22",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Mikal Harrison-Pilot",
+      "number": "0",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Miquel Dingle Jr.",
+      "number": "21",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Peyton Morgan",
+      "number": "3",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Alonza Barnett III",
+      "number": "14",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Bruno Dall",
+      "number": "41",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Caleb Rollerson",
+      "number": "13",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "DJ Bell",
+      "number": "5",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Demari Henderson",
+      "number": "8",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Jacob Maiava",
+      "number": "55",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Jayden Jennings",
+      "number": "38",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Kahmel Johnson",
+      "number": "14",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Keyone Jenkins",
+      "number": "12",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Lewis Carter",
+      "number": "20",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Taevion Swint",
+      "number": "4",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Ty Bartrum",
+      "number": "21",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Tyler Gibson",
+      "number": "75",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Isaiah Garcia",
+      "number": "72",
+      "opponent": "BYU",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Noah Bennee",
+      "number": "89",
+      "opponent": "BYU",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Tayson Reid",
+      "number": "42",
+      "opponent": "BYU",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Andre Devine",
+      "number": "26",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Armoni Weaver-Bomar",
+      "number": "25",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Da'Mare Williams",
+      "number": "6",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Darius Wiley",
+      "number": "91",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Emory Snyder",
+      "number": "23",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Jacob Bradford",
+      "number": "12",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Jyron Hughley",
+      "number": "8",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Lawrence Autry",
+      "number": "28",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Matt Sieg",
+      "number": "3",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Nick Taylor",
+      "number": "19",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -25910,9 +28267,137 @@
     },
     {
       "conference": "B12",
+      "team": "Arizona",
+      "opponent": "TCU",
+      "game_date": "2026-11-06",
+      "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "TCU",
       "opponent": "Arizona",
       "game_date": "2026-11-06",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "opponent": "Arizona",
+      "game_date": "2026-11-06",
+      "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "opponent": "Colorado",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "opponent": "Utah",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "opponent": "Houston",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "opponent": "Cincinnati",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "opponent": "Baylor",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas",
+      "opponent": "UCF",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Oklahoma St.",
+      "opponent": "Kansas St.",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "opponent": "Kansas",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "opponent": "BYU",
+      "game_date": "2026-11-07",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-07",
       "label": "Initial",
       "released_at": null
     }
