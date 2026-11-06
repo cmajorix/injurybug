@@ -7,8 +7,15 @@ from .base import BaseScraper, InjuryRecord, ParseResult, StatusUpdate, TeamRepo
 FEED_URL = "https://sbcautostorage.blob.core.windows.net/availability-reports/{feed}/prod/report.json"
 
 # game["notes"] -> report label used across sources (base.REPORT_LABELS).
-# Only these have been seen; unknown notes pass through unchanged.
-NOTES_LABELS = {"Advance Report": "Initial", "Initial Report": "Initial", "Game Day Report": "Game Day"}
+# Pac-12 publishes 3, 2 and 1 days before a game, then on game day. "Third Report" is inferred from
+# that schedule and hasn't been seen yet; unknown notes pass through unchanged and fail validation.
+NOTES_LABELS = {
+    "Advance Report": "Initial",
+    "Initial Report": "Initial",
+    "Second Report": "Update 1",
+    "Third Report": "Update 2",
+    "Game Day Report": "Game Day",
+}
 
 NAME_SUFFIXES = {"Jr", "Jr.", "Sr", "Sr.", "II", "III", "IV", "V"}
 
