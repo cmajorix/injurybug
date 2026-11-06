@@ -12,9 +12,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "TE",
@@ -31,7 +31,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -50,7 +50,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -69,7 +69,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -88,7 +88,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -107,7 +107,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -126,7 +126,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -145,9 +145,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "QB",
@@ -164,7 +164,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -183,7 +183,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -202,7 +202,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -221,7 +221,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -240,7 +240,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -259,9 +259,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DB",
@@ -278,7 +278,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -297,7 +297,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -316,7 +316,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -335,7 +335,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3296,16 +3296,16 @@
       "team": "Illinois",
       "opponent": "Nebraska",
       "game_date": "2026-11-06",
-      "label": "Update 2",
-      "released_at": "2026-11-06T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-06T23:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Nebraska",
       "opponent": "Illinois",
       "game_date": "2026-11-06",
-      "label": "Update 2",
-      "released_at": "2026-11-06T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-06T23:00:00Z"
     },
     {
       "conference": "B10",
