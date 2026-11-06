@@ -1,6 +1,442 @@
 {
   "conference": "American",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "AJ Johnson",
+      "number": "1",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Brooks Johnson",
+      "number": "11",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Chris Tooley III",
+      "number": "8",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Ja'Kavion Nonar",
+      "number": "57",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Justin Weatherall",
+      "number": "30",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Kelby Valsin",
+      "number": "2",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Landon Rapkiewicz",
+      "number": "71",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Lebron Edmond",
+      "number": "91",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Marcus Vinson",
+      "number": "88",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Nate Fischer",
+      "number": "21",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Owen Cheatham",
+      "number": "50",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "Peter Cannon",
+      "number": "87",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "player": "RJ Garcia II",
+      "number": "6",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Brandon Tucker",
+      "number": "23",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Bryson Donnell",
+      "number": "22",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Chris Bryson II",
+      "number": "16",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "MB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Jarvse \"Duece\" Dickerson",
+      "number": "21",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Johnny Bowens III",
+      "number": "19",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Lawrence Brown Jr.",
+      "number": "10",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Marcellus Wilkerson",
+      "number": "12",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Mykha Green",
+      "number": "23",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Sekope Wallace",
+      "number": "53",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "American",
+      "team": "Fla. Atlantic",
+      "opponent": "UTSA",
+      "game_date": "2026-11-05",
+      "label": "Game Day",
+      "released_at": "2026-11-05T22:30:00Z"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "opponent": "Fla. Atlantic",
+      "game_date": "2026-11-05",
+      "label": "Game Day",
+      "released_at": "2026-11-05T22:30:00Z"
+    }
+  ]
 }
