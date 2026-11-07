@@ -1722,9 +1722,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "WR",
@@ -1741,9 +1741,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "WR",
@@ -1760,7 +1760,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1779,9 +1779,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "LB",
@@ -1798,7 +1798,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1817,7 +1817,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1836,7 +1836,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1855,7 +1855,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1874,7 +1874,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1893,7 +1893,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1912,7 +1912,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1931,7 +1931,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1950,7 +1950,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1969,9 +1969,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "WR",
@@ -1988,7 +1988,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2007,7 +2007,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2026,7 +2026,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2045,7 +2045,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2064,7 +2064,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2083,7 +2083,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2102,9 +2102,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DT",
@@ -2121,9 +2121,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "WR",
@@ -2140,7 +2140,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2159,7 +2159,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2178,9 +2178,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "OL",
@@ -2197,7 +2197,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2216,7 +2216,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2235,9 +2235,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "WR",
@@ -2330,9 +2330,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "LB",
@@ -2349,9 +2349,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "K",
@@ -2368,31 +2368,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "QB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Rutgers",
-      "player": "Dyzier Carter",
-      "number": "0",
-      "opponent": "Wisconsin",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "WR",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2406,7 +2387,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2425,7 +2406,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2444,7 +2425,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2463,28 +2444,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
-        }
-      ],
-      "position": "DB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Rutgers",
-      "player": "Kevin Levy",
-      "number": "7",
-      "opponent": "Wisconsin",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
         }
       ],
       "position": "DB",
@@ -2501,31 +2463,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Rutgers",
-      "player": "Rondo Porter",
-      "number": "99",
-      "opponent": "Wisconsin",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "DL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2539,9 +2482,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "LB",
@@ -2558,7 +2501,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2577,7 +2520,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2779,25 +2722,6 @@
     {
       "conference": "B10",
       "team": "Washington",
-      "player": "Alex McLaughlin",
-      "number": "7",
-      "opponent": "Penn St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "S",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Washington",
       "player": "CJ Christian",
       "number": null,
       "opponent": "Penn St.",
@@ -2805,31 +2729,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "S",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Washington",
-      "player": "Champ Taulealea",
-      "number": "73",
-      "opponent": "Penn St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2843,50 +2748,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "WR",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Washington",
-      "player": "Geirean Hatchett",
-      "number": "56",
-      "opponent": "Penn St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Washington",
-      "player": "Jack Shaffer",
-      "number": "65",
-      "opponent": "Penn St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "OL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2900,50 +2767,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "RB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Washington",
-      "player": "Justin Hylkema",
-      "number": "70",
-      "opponent": "Penn St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Washington",
-      "player": "Kolt Dieterich",
-      "number": "55",
-      "opponent": "Penn St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2957,7 +2786,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2976,50 +2805,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "RB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Washington",
-      "player": "Ramzak Fruean",
-      "number": "11",
-      "opponent": "Penn St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "EDG",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Washington",
-      "player": "Xe'ree Alexander",
-      "number": "10",
-      "opponent": "Penn St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "LB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -3033,9 +2824,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "OL",
@@ -3052,7 +2843,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3071,7 +2862,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3090,7 +2881,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3109,9 +2900,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "RB",
@@ -3189,24 +2980,24 @@
       "team": "Ohio St.",
       "opponent": "Oregon",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T18:30:00Z"
     },
     {
       "conference": "B10",
       "team": "Oregon",
       "opponent": "Ohio St.",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T18:30:00Z"
     },
     {
       "conference": "B10",
       "team": "Penn St.",
       "opponent": "Washington",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T18:30:00Z"
     },
     {
       "conference": "B10",
@@ -3221,8 +3012,8 @@
       "team": "Rutgers",
       "opponent": "Wisconsin",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T19:15:00Z"
     },
     {
       "conference": "B10",
@@ -3237,16 +3028,16 @@
       "team": "Washington",
       "opponent": "Penn St.",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T18:30:00Z"
     },
     {
       "conference": "B10",
       "team": "Wisconsin",
       "opponent": "Rutgers",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T19:15:00Z"
     }
   ]
 }

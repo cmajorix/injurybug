@@ -12,7 +12,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31,7 +31,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -50,7 +50,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -69,7 +69,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -88,7 +88,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -107,9 +107,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "OUT"
         }
       ],
       "position": "RB",
@@ -126,7 +126,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -145,9 +145,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "TE",
@@ -164,7 +164,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -183,9 +183,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "OUT"
         }
       ],
       "position": "OL",
@@ -202,7 +202,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -221,7 +221,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -240,7 +240,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -259,9 +259,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "OUT"
         }
       ],
       "position": "TE",
@@ -278,7 +278,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1073,16 +1073,16 @@
       "team": "Boise State",
       "opponent": "Colorado State",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T03:04:46Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T21:05:21Z"
     },
     {
       "conference": "Pac12",
       "team": "Colorado State",
       "opponent": "Boise State",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T03:04:46Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T21:05:21Z"
     },
     {
       "conference": "Pac12",
