@@ -506,9 +506,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "CB",
@@ -525,7 +525,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -544,31 +544,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "S",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "BYU",
-      "player": "Kendal Wall",
-      "number": "46",
-      "opponent": "Utah",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "DE",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -582,9 +563,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "RB",
@@ -601,7 +582,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -620,9 +601,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "TE",
@@ -639,7 +620,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -658,7 +639,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -677,7 +658,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -696,7 +677,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -715,7 +696,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -734,7 +715,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -753,7 +734,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -772,28 +753,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
-        }
-      ],
-      "position": "CB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Baylor",
-      "player": "Kyler Beaty",
-      "number": "12",
-      "opponent": "Iowa St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
         }
       ],
       "position": "CB",
@@ -1152,7 +1114,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,7 +1133,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1190,7 +1152,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1209,7 +1171,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1475,31 +1437,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "QB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Kansas St.",
-      "player": "DJ Ackerson Jr.",
-      "number": "16",
-      "opponent": "Oklahoma St.",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "LB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -1513,9 +1456,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DT",
@@ -1532,7 +1475,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1551,9 +1494,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "S",
@@ -1570,9 +1513,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "TE",
@@ -1589,9 +1532,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "LB",
@@ -1608,7 +1551,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1627,7 +1570,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1646,7 +1589,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1665,7 +1608,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1684,7 +1627,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1988,7 +1931,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2161,16 +2104,16 @@
       "team": "BYU",
       "opponent": "Utah",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:30:00Z"
     },
     {
       "conference": "B12",
       "team": "Baylor",
       "opponent": "Iowa St.",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:30:00Z"
     },
     {
       "conference": "B12",
@@ -2201,8 +2144,8 @@
       "team": "Iowa St.",
       "opponent": "Baylor",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:30:00Z"
     },
     {
       "conference": "B12",
@@ -2217,16 +2160,16 @@
       "team": "Kansas St.",
       "opponent": "Oklahoma St.",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T16:30:00Z"
     },
     {
       "conference": "B12",
       "team": "Oklahoma St.",
       "opponent": "Kansas St.",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T16:30:00Z"
     },
     {
       "conference": "B12",
@@ -2249,8 +2192,8 @@
       "team": "Utah",
       "opponent": "BYU",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:30:00Z"
     },
     {
       "conference": "B12",

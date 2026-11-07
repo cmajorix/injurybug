@@ -620,7 +620,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -639,9 +639,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "LB",
@@ -658,7 +658,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -677,31 +677,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "TE",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Maryland",
-      "player": "Jayvon Parker",
-      "number": "97",
-      "opponent": "Purdue",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -715,7 +696,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -734,9 +715,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "TE",
@@ -753,31 +734,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Maryland",
-      "player": "Trey Reddick",
-      "number": "3",
-      "opponent": "Purdue",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "LB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -791,7 +753,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1418,7 +1380,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1437,7 +1399,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1456,7 +1418,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1475,7 +1437,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1494,50 +1456,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "TE",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Minnesota",
-      "player": "Mason Carrier",
-      "number": "46",
-      "opponent": "UCLA",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "LB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Minnesota",
-      "player": "Nick Spence",
-      "number": "77",
-      "opponent": "UCLA",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -1551,9 +1475,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "TE",
@@ -1570,7 +1494,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2330,9 +2254,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DB",
@@ -2349,7 +2273,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2368,7 +2292,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2387,7 +2311,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2672,7 +2596,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2691,7 +2615,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2710,7 +2634,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2729,7 +2653,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2748,9 +2672,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "OL",
@@ -2767,7 +2691,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2786,7 +2710,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2805,7 +2729,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2824,7 +2748,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2843,7 +2767,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3225,8 +3149,8 @@
       "team": "Maryland",
       "opponent": "Purdue",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:30:00Z"
     },
     {
       "conference": "B10",
@@ -3249,8 +3173,8 @@
       "team": "Minnesota",
       "opponent": "UCLA",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:00:00Z"
     },
     {
       "conference": "B10",
@@ -3289,8 +3213,8 @@
       "team": "Purdue",
       "opponent": "Maryland",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:30:00Z"
     },
     {
       "conference": "B10",
@@ -3305,8 +3229,8 @@
       "team": "UCLA",
       "opponent": "Minnesota",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:00:00Z"
     },
     {
       "conference": "B10",

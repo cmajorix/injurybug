@@ -278,50 +278,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "DB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "SEC",
-      "team": "Arkansas",
-      "player": "Braylen Russell",
-      "number": "0",
-      "opponent": "Auburn",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "RB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "SEC",
-      "team": "Arkansas",
-      "player": "Chris Marshall",
-      "number": "6",
-      "opponent": "Auburn",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -335,7 +297,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -354,7 +316,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -373,28 +335,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "SEC",
-      "team": "Arkansas",
-      "player": "Steven Soles Jr.",
-      "number": "35",
-      "opponent": "Auburn",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DL",
@@ -411,9 +354,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "CB",
@@ -430,7 +373,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -449,7 +392,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -468,9 +411,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "WR",
@@ -487,7 +430,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -506,7 +449,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1152,7 +1095,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,7 +1114,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1190,7 +1133,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1950,9 +1893,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "WR",
@@ -1969,31 +1912,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "EDG",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "SEC",
-      "team": "Texas",
-      "player": "Graceson Littleton",
-      "number": "29",
-      "opponent": "Missouri",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2007,31 +1931,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "RB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "SEC",
-      "team": "Texas",
-      "player": "Kade Phillips",
-      "number": "8",
-      "opponent": "Missouri",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2045,7 +1950,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2064,31 +1969,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "EDG",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "SEC",
-      "team": "Texas",
-      "player": "Ryan Wingo",
-      "number": "1",
-      "opponent": "Missouri",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2102,7 +1988,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2373,16 +2259,16 @@
       "team": "Arkansas",
       "opponent": "Auburn",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:10:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T16:15:00Z"
     },
     {
       "conference": "SEC",
       "team": "Auburn",
       "opponent": "Arkansas",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:10:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T16:15:00Z"
     },
     {
       "conference": "SEC",
@@ -2429,8 +2315,8 @@
       "team": "Missouri",
       "opponent": "Texas",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:10:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:30:00Z"
     },
     {
       "conference": "SEC",
@@ -2469,8 +2355,8 @@
       "team": "Texas",
       "opponent": "Missouri",
       "game_date": "2026-11-07",
-      "label": "Update 2",
-      "released_at": "2026-11-07T01:10:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-07T15:30:00Z"
     },
     {
       "conference": "SEC",
