@@ -11933,6 +11933,386 @@
       "position": null,
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "Ayden Duncanson",
+      "number": "13",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "Brock Spalding",
+      "number": "10",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "David Coleman Jr.",
+      "number": "28",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "Dawson Quarterman",
+      "number": "88",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "DeMarius Hines",
+      "number": "6",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "Dillon Lorick",
+      "number": "14",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "Ismael Smith Flores",
+      "number": "8",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "Jaylen Bowden",
+      "number": "2",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "player": "Jeremiah Melvin",
+      "number": "11",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "A'Mon Lane-Ganus",
+      "number": "20",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Arhmad Branch",
+      "number": "4",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Cash Hudson",
+      "number": "72",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Derrick \"Tre\" Nichols III",
+      "number": "38",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Ethan Green",
+      "number": "79",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Gabe Legrand",
+      "number": "82",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Iverson Garcia-Ponce",
+      "number": "95",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Jaden Alexis",
+      "number": "12",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "JeyQuan Smith",
+      "number": "19",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Michael Van Buren Jr.",
+      "number": "3",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Thomas Shrader",
+      "number": "67",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
     }
   ],
   "team_reports": [
@@ -12429,6 +12809,22 @@
       "team": "UTSA",
       "opponent": "Fla. Atlantic",
       "game_date": "2026-11-05",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "East Carolina",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-06",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "opponent": "East Carolina",
+      "game_date": "2026-11-06",
       "label": "Game Day",
       "released_at": null
     }
