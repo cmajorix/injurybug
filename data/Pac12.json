@@ -12,7 +12,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31,9 +31,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "QB",
@@ -50,7 +50,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -69,7 +69,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -88,7 +88,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -107,9 +107,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": "RB",
@@ -126,7 +126,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -145,7 +145,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -164,31 +164,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "DB",
-      "injury": null,
-      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
-    },
-    {
-      "conference": "Pac12",
-      "team": "Colorado State",
-      "player": "Jaivyn Moore",
-      "number": null,
-      "opponent": "Boise State",
-      "game_date": "2026-11-07",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -202,7 +183,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -221,9 +202,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "TE",
@@ -240,9 +221,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "WR",
@@ -259,7 +240,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -278,7 +259,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -297,7 +278,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -316,7 +297,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -335,7 +316,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -354,7 +335,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -373,7 +354,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -392,7 +373,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -411,7 +392,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -430,12 +411,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Oscar Weigel",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-07",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -449,12 +449,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Sione Noa",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-07",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -468,7 +487,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -487,7 +506,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -506,7 +525,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -525,7 +544,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -544,7 +563,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -563,7 +582,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -582,7 +601,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -601,7 +620,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -620,7 +639,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -639,7 +658,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -658,7 +677,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -677,7 +696,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -696,9 +715,28 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        }
+      ],
+      "position": "SP",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Lincoln Petitjean",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-07",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": "SP",
@@ -715,7 +753,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -734,9 +772,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "ILB",
@@ -753,12 +791,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
       ],
       "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Zechariah Sample",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-07",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "WR",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -772,7 +829,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -791,7 +848,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -810,7 +867,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -829,7 +886,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -848,7 +905,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -867,9 +924,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "OL",
@@ -886,7 +943,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -905,7 +962,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -924,7 +981,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -943,7 +1000,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -962,7 +1019,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -981,7 +1038,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1000,7 +1057,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1016,48 +1073,48 @@
       "team": "Boise State",
       "opponent": "Colorado State",
       "game_date": "2026-11-07",
-      "label": "Update 1",
-      "released_at": "2026-11-06T03:04:13Z"
+      "label": "Update 2",
+      "released_at": "2026-11-07T03:04:46Z"
     },
     {
       "conference": "Pac12",
       "team": "Colorado State",
       "opponent": "Boise State",
       "game_date": "2026-11-07",
-      "label": "Update 1",
-      "released_at": "2026-11-06T03:04:13Z"
+      "label": "Update 2",
+      "released_at": "2026-11-07T03:04:46Z"
     },
     {
       "conference": "Pac12",
       "team": "Fresno State",
       "opponent": "Utah State",
       "game_date": "2026-11-07",
-      "label": "Update 1",
-      "released_at": "2026-11-06T03:05:21Z"
+      "label": "Update 2",
+      "released_at": "2026-11-07T03:05:46Z"
     },
     {
       "conference": "Pac12",
       "team": "Oregon State",
       "opponent": "Texas State",
       "game_date": "2026-11-07",
-      "label": "Update 1",
-      "released_at": "2026-11-06T03:06:03Z"
+      "label": "Update 2",
+      "released_at": "2026-11-07T03:06:44Z"
     },
     {
       "conference": "Pac12",
       "team": "Texas State",
       "opponent": "Oregon State",
       "game_date": "2026-11-07",
-      "label": "Update 1",
-      "released_at": "2026-11-06T03:06:03Z"
+      "label": "Update 2",
+      "released_at": "2026-11-07T03:06:44Z"
     },
     {
       "conference": "Pac12",
       "team": "Utah State",
       "opponent": "Fresno State",
       "game_date": "2026-11-07",
-      "label": "Update 1",
-      "released_at": "2026-11-06T03:05:21Z"
+      "label": "Update 2",
+      "released_at": "2026-11-07T03:05:46Z"
     }
   ]
 }
