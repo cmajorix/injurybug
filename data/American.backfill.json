@@ -12313,6 +12313,1906 @@
       "position": null,
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Calif Spencer",
+      "number": "8",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Chance Williams",
+      "number": "7",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Devon St. Clair",
+      "number": "26",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Jamil Davis",
+      "number": "35",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Jaylen Doss",
+      "number": "99",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Jerry Wall III",
+      "number": "10",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Kendal Brown",
+      "number": "14",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Latrell Sellers",
+      "number": "32",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Mathias Nielsen",
+      "number": "55",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Shelden Golliday",
+      "number": "82",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "player": "Zayden Laing-Taylor",
+      "number": "20",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Aaron Rose",
+      "number": "8",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Akeem Clark",
+      "number": "82",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Bash Bodily",
+      "number": "6",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Chris Herock",
+      "number": "99",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Christian Cromer",
+      "number": "42",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Gavin Noe",
+      "number": "43",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Giuseppe Sessi",
+      "number": "16",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Hoke Smith II",
+      "number": "68",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Joshua Guerin",
+      "number": "86",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Matt Reyes",
+      "number": "97",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Matthew Seliga",
+      "number": "5",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Sean Martin",
+      "number": "4",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "player": "Truman Brasfield",
+      "number": "83",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Aaden Little",
+      "number": "31",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Avion Carter",
+      "number": "99",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Caden Jenkins",
+      "number": "8",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Chaston Ditta",
+      "number": "9",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Colin Page",
+      "number": "22",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Corri Milliner",
+      "number": "0",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Drew Clemens",
+      "number": "85",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Grady Holmes",
+      "number": "92",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Josiah Martin",
+      "number": "6",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Julian Knox Sr.",
+      "number": "22",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Kailer Pettijohn",
+      "number": "40",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Kyle Koch",
+      "number": "14",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "player": "Zach Johnson",
+      "number": "27",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Ben Grice",
+      "number": "6",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Chibby Nwajuaku",
+      "number": "16",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Clay Mitchell",
+      "number": "74",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Cole Principe",
+      "number": "71",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Colten Cole",
+      "number": "82",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Ian Bothwell",
+      "number": "77",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Jai Jacobs-Ford",
+      "number": "29",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Justin Powell",
+      "number": "33",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Michael Amey III",
+      "number": "27",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Quinton Jackson",
+      "number": "10",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Tariq Watson",
+      "number": "4",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Ajani Sheppard",
+      "number": "13",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Brandon Enarusai",
+      "number": "34",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "De'Carlos Young",
+      "number": "21",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Devontae Ward-Grant",
+      "number": "27",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Eric Stuart",
+      "number": "8",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Hunter Smith",
+      "number": "29",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Jett White",
+      "number": "20",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "John Watkins",
+      "number": "63",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Kaegan Chambers",
+      "number": "87",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Kenedy Uzoma",
+      "number": "83",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Kevin Hornbeak Jr.",
+      "number": "93",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Kevin Terry",
+      "number": "55",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Luke Watson",
+      "number": "75",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Peter Clarke",
+      "number": "0",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Rameir Hardy",
+      "number": "85",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Sam Brown V",
+      "number": "5",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Tyree Alualu",
+      "number": "44",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Willy Love",
+      "number": "12",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Zander Baptiste",
+      "number": "89",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Antwaun Parham",
+      "number": "15",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Armani Cargo",
+      "number": "14",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Chris Rodgers",
+      "number": "4",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Elijah Baker",
+      "number": "73",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Garrett Mmahat",
+      "number": "16",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Jake Randle",
+      "number": "24",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Jamauri McClure",
+      "number": "25",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "John Barton",
+      "number": "39",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Jordyn Crites",
+      "number": "90",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Josh Lewis",
+      "number": "99",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Justin Agu",
+      "number": "22",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Kameron Hamilton",
+      "number": "70",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Orion Saunders",
+      "number": "23",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Riley Rushing",
+      "number": "71",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Ryan Mickow",
+      "number": "58",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Shaun Nicholas",
+      "number": "0",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out (1st Half)",
+          "status_raw": "Out - (1st Half)"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "Ty Thompson",
+      "number": "13",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "player": "William Hudlow",
+      "number": "34",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "player": "C.J. Turner",
+      "number": "35",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "player": "Cam East",
+      "number": "73",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "player": "Elijah Green",
+      "number": "7",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "player": "Elijah Wilson",
+      "number": "34",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "player": "Hunter Erb",
+      "number": "60",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "player": "Raymir Coney",
+      "number": "43",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "player": "William Alexander",
+      "number": "33",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "player": "Xavier Green",
+      "number": "88",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Antonio Ferguson",
+      "number": "85",
+      "opponent": "Charlotte",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Colby Archie",
+      "number": "32",
+      "opponent": "Charlotte",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Jaylen Elder",
+      "number": "12",
+      "opponent": "Charlotte",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Kyrik Mason",
+      "number": "71",
+      "opponent": "Charlotte",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Marlin Dean",
+      "number": "4",
+      "opponent": "Charlotte",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Mykale Hrabowski",
+      "number": "23",
+      "opponent": "Charlotte",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Nigel Tate",
+      "number": "8",
+      "opponent": "Charlotte",
+      "game_date": "2026-11-07",
+      "week": 10,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
     }
   ],
   "team_reports": [
@@ -12825,6 +14725,70 @@
       "team": "South Fla.",
       "opponent": "East Carolina",
       "game_date": "2026-11-06",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "Charlotte",
+      "opponent": "UAB",
+      "game_date": "2026-11-07",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "Navy",
+      "opponent": "Temple",
+      "game_date": "2026-11-07",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "North Texas",
+      "opponent": "Rice",
+      "game_date": "2026-11-07",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "opponent": "North Texas",
+      "game_date": "2026-11-07",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "opponent": "Navy",
+      "game_date": "2026-11-07",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "Tulane",
+      "opponent": "Tulsa",
+      "game_date": "2026-11-07",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "Tulsa",
+      "opponent": "Tulane",
+      "game_date": "2026-11-07",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "opponent": "Charlotte",
+      "game_date": "2026-11-07",
       "label": "Game Day",
       "released_at": null
     }
