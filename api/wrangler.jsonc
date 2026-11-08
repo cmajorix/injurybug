@@ -9,11 +9,11 @@
       "database_id": "af7820d9-273d-4b10-84c0-f5cef27b0bca",
       "migrations_dir": "migrations"
     }
-  ]
-  // Once web/ exists, the same Worker can serve the React build:
-  // "assets": {
-  //   "directory": "../web/dist",
-  //   "not_found_handling": "single-page-application",
-  //   "run_worker_first": ["/api/*"]
-  // }
+  ],
+  // The React build from web/ (`npm run build` there; `npm run deploy` here builds it first).
+  "assets": {
+    "directory": "../web/dist",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  }
 }
