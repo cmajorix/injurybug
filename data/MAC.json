@@ -1,6 +1,1557 @@
 {
   "conference": "MAC",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Alex Branch",
+      "number": "3",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Cameron Monteiro",
+      "number": "12",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Catrell White",
+      "number": "21",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Chris Gee",
+      "number": "25",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Daymon David",
+      "number": "2",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Dayne Shor",
+      "number": "75",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Elijah Alexander",
+      "number": "83",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Gavin James",
+      "number": "31",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Iesa Jarmon",
+      "number": "12",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Jaborree Riggins",
+      "number": "15",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Logan Hindmarch",
+      "number": "65",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Luke Sivon",
+      "number": "81",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Malakai Ross-Graves",
+      "number": "94",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Paul Davis",
+      "number": "16",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "player": "Vann Kavals",
+      "number": "97",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Austin Clay",
+      "number": "11",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Austyn Dendy",
+      "number": "1",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Dayln White",
+      "number": "57",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DT",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Ethan Kraatz",
+      "number": "58",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OT",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Isaiah Dawson",
+      "number": "6",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Jabari Mitchell",
+      "number": "36",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Jay Kastantin",
+      "number": "17",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Jeremiah Scoby",
+      "number": "0",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "JoJo Johnson",
+      "number": "2",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Jonathan Goins",
+      "number": "50",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Pete Pendergest",
+      "number": "61",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Quentin Lewis",
+      "number": "48",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Quillan Jimenez",
+      "number": "56",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LS",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Rico Garcia",
+      "number": "32",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Theo Andall",
+      "number": "76",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Timothy Taylor Jr.",
+      "number": "55",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Trent Taylor",
+      "number": "84",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "player": "Winn Sharp",
+      "number": "18",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Kent St.",
+      "player": "A'tiq Muhammad",
+      "number": "1",
+      "opponent": "Bowling Green",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Kent St.",
+      "player": "Angelo Stockstill",
+      "number": "7",
+      "opponent": "Bowling Green",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Kent St.",
+      "player": "Dion'Dre Taylor",
+      "number": "91",
+      "opponent": "Bowling Green",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Kent St.",
+      "player": "Garrett Long",
+      "number": "83",
+      "opponent": "Bowling Green",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Kent St.",
+      "player": "Jared Kelley",
+      "number": "4",
+      "opponent": "Bowling Green",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Kent St.",
+      "player": "Rico Steele",
+      "number": "77",
+      "opponent": "Bowling Green",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Kent St.",
+      "player": "Tyler Meadows",
+      "number": "78",
+      "opponent": "Bowling Green",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Adrian Walker Jr.",
+      "number": "6",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Anthony Ludington",
+      "number": "49",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Brayden Boeing",
+      "number": "89",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Cade Yacamelli",
+      "number": "20",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "David McComb",
+      "number": "16",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Devin Hyatt",
+      "number": "4",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Eric Karner",
+      "number": "83",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Evan Gilder",
+      "number": "57",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Greg Smith Jr.",
+      "number": "74",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Harrison Brewster",
+      "number": "33",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Ike Steward",
+      "number": "25",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Kaleb Martin",
+      "number": "12",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Keith Reynolds",
+      "number": "5",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Max Deckard",
+      "number": "38",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Shaun Shahu",
+      "number": "77",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Thomas Gotkowski",
+      "number": "13",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "player": "Trey Zvonar",
+      "number": "85",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Andrew Vera",
+      "number": "18",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Cody Raymond",
+      "number": "56",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Eli Thompson",
+      "number": "7",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Ian Ver Steeg",
+      "number": "10",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Kaden Page",
+      "number": "80",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Khamani Debrow",
+      "number": "31",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Rashad Perry",
+      "number": "13",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Tony Mathis",
+      "number": "6",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Victor Rosa",
+      "number": "4",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Will Hryszko",
+      "number": "47",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "K",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Will Odenthal",
+      "number": "54",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "player": "Zach Hackleman",
+      "number": "11",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "August Johanningsmeier",
+      "number": "88",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Aveion Chenault",
+      "number": "2",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Harper Hughes",
+      "number": "80",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Jeremy Schleicher",
+      "number": "65",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Justyce Betts",
+      "number": "5",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Noah Bishop",
+      "number": "97",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Ofa \"Lolo\" Mataele",
+      "number": "24",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Palmer Domschke",
+      "number": "20",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "K",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Ryan Westrich",
+      "number": "67",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Trey Petty",
+      "number": "10",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "MAC",
+      "team": "Akron",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-10",
+      "label": "Game Day",
+      "released_at": "2026-11-10T23:00:00Z"
+    },
+    {
+      "conference": "MAC",
+      "team": "Bowling Green",
+      "opponent": "Kent St.",
+      "game_date": "2026-11-10",
+      "label": "Game Day",
+      "released_at": "2026-11-10T23:00:00Z"
+    },
+    {
+      "conference": "MAC",
+      "team": "Kent St.",
+      "opponent": "Bowling Green",
+      "game_date": "2026-11-10",
+      "label": "Game Day",
+      "released_at": "2026-11-10T23:00:00Z"
+    },
+    {
+      "conference": "MAC",
+      "team": "Miami (OH)",
+      "opponent": "Ohio",
+      "game_date": "2026-11-10",
+      "label": "Game Day",
+      "released_at": "2026-11-11T00:00:00Z"
+    },
+    {
+      "conference": "MAC",
+      "team": "Ohio",
+      "opponent": "Miami (OH)",
+      "game_date": "2026-11-10",
+      "label": "Game Day",
+      "released_at": "2026-11-11T00:00:00Z"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "opponent": "Akron",
+      "game_date": "2026-11-10",
+      "label": "Game Day",
+      "released_at": "2026-11-10T23:00:00Z"
+    }
+  ]
 }

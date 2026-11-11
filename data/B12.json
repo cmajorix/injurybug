@@ -1,6 +1,309 @@
 {
   "conference": "B12",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Braylon Edwards",
+      "number": "26",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Danny Scudero",
+      "number": "18",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Elliot Arnold",
+      "number": "46",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "K",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Kaleb Mathis",
+      "number": "13",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Micah Welch",
+      "number": "29",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Naeten Mitchell",
+      "number": "4",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Sam Gadie",
+      "number": "92",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Tyler Martinez",
+      "number": "35",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "player": "Vili Taufatofua",
+      "number": "45",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "Aaron Wolford",
+      "number": "50",
+      "opponent": "Colorado",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "Carmycah Glass",
+      "number": "25",
+      "opponent": "Colorado",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "De'Marion Thomas",
+      "number": "90",
+      "opponent": "Colorado",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "Ejiro Egodogbare",
+      "number": "50",
+      "opponent": "Colorado",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "JD Rhym",
+      "number": "3",
+      "opponent": "Colorado",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "Travis Buhake",
+      "number": "92",
+      "opponent": "Colorado",
+      "game_date": "2026-11-13",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "B12",
+      "team": "Colorado",
+      "opponent": "Houston",
+      "game_date": "2026-11-13",
+      "label": "Initial",
+      "released_at": "2026-11-11T03:00:00Z"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "opponent": "Colorado",
+      "game_date": "2026-11-13",
+      "label": "Initial",
+      "released_at": "2026-11-11T03:00:00Z"
+    }
+  ]
 }
