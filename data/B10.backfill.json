@@ -40655,6 +40655,462 @@
       "position": null,
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "BJ Thurman",
+      "number": "87",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Ca'Lil Valentine",
+      "number": "5",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Carter Smith",
+      "number": "48",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Demetrius John",
+      "number": "54",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Grant Beerman",
+      "number": "33",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Jacob Eberhart",
+      "number": "8",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Jake Renfro",
+      "number": "59",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Javari Barnett",
+      "number": "24",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Jayshon Platt",
+      "number": "1",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Kai Pritchard",
+      "number": "53",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Michael Clayton II",
+      "number": "7",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "RJ Jones III",
+      "number": "2",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "TJ McMillen",
+      "number": "55",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Tywan Cox",
+      "number": "32",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "player": "Will Holmes",
+      "number": "24",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Ashton Sanders",
+      "number": "44",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Hall Schmidt",
+      "number": "65",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Jalen Saint Paul",
+      "number": "86",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Jonah Smith",
+      "number": "24",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Mikey Matthews",
+      "number": "7",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Nico Iamaleava",
+      "number": "9",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Riley Robell",
+      "number": "51",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Ryan McCulloch",
+      "number": "19",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "player": "Sam Yoon",
+      "number": "64",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
     }
   ],
   "team_reports": [
@@ -44080,6 +44536,22 @@
       "opponent": "Rutgers",
       "game_date": "2026-11-07",
       "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Illinois",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "UCLA",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "label": "Initial",
       "released_at": null
     }
   ]
