@@ -1,6 +1,1497 @@
 {
   "conference": "Pac12",
   "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "Pac12",
+      "team": "Boise State",
+      "player": "Carson Rasmussen",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Boise State",
+      "player": "Maddux Madsen",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Boise State",
+      "player": "Sire Gaines",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Boise State",
+      "player": "Travis Anderson",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "AJ NOLAND",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "ALTON TARBOR",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "ANTARRON TURNER",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "DAGAN MYERS",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "DURELL ROBINSON",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "ELIJAH MCCANTOS",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "GRANT HOUSER",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "JACE BELLAH",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "JACKSON HARPER",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "JAYDEN CORTELL",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "JOHN HOLTHAUS",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "JORDAN LESSARD",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "JUICE VAREEN",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "MAKIH JOHNSON",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "MEL BROWN",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "OUMAR DIOMANDE",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "PEARCE SPURLIN",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "PHIL OCON",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "player": "TREY VINCENT",
+      "number": null,
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Ethan Rossetti",
+      "number": null,
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "SP",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Gino Quinones",
+      "number": null,
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Jairus Satele",
+      "number": null,
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Niko Baumgartner",
+      "number": null,
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Noah Yeh",
+      "number": null,
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Oscar Weigel",
+      "number": null,
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Ryan Wilson",
+      "number": null,
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Sione Noa",
+      "number": null,
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "player": "Braden Atkinson",
+      "number": null,
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "player": "Eddie Freauff",
+      "number": null,
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "player": "Jacob Anderson",
+      "number": null,
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "player": "Kai Wheaton",
+      "number": null,
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "player": "Kord Shaw",
+      "number": null,
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out for Season"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "player": "Ryan Whitten",
+      "number": null,
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "player": "Sailasa Vadrawale",
+      "number": null,
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "player": "Will Haverland",
+      "number": null,
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "OLB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "DJ Overstreet",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Dalesean Staley",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Jack Ellis",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Jacob Bostick",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Jayden Denegal",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Jeremiah Lewis",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Josh Hunter",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Luke Williams",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "SP",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Nate Acevedo",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Tano Letuli",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "player": "Yannick Parker",
+      "number": null,
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Ayden Jones",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Cole Snodgrass",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "JP Deeter",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Javante Mackey",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Jayden Lawton",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Joshua Selmes",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "SP",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Lincoln Petitjean",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "SP",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Mekhi Buchanan",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out for Season"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "player": "Trez Moore",
+      "number": null,
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Chapman Lewis",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Chris Joe",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out for Season"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Eli Wood",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Harrison Taggart",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Jackson Nelson",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Javen Jacobs",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Jimmy Liston",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "John McClellan",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Jude Nelson",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out for Season"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "K'Leyone Iosua",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Kauasi Hansen",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out for Season"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Landon Rehkow",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "SP",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Nikko Boncore",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out for Season"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "player": "Tevita Tuha",
+      "number": null,
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Washington State",
+      "player": "Darrius Clemons",
+      "number": null,
+      "opponent": "Colorado State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Washington State",
+      "player": "Nylan Brown",
+      "number": null,
+      "opponent": "Colorado State",
+      "game_date": "2026-11-14",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out for Season"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "Pac12",
+      "team": "Boise State",
+      "opponent": "Oregon State",
+      "game_date": "2026-11-14",
+      "label": "Initial",
+      "released_at": "2026-11-12T03:10:38Z"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Colorado State",
+      "opponent": "Washington State",
+      "game_date": "2026-11-14",
+      "label": "Initial",
+      "released_at": "2026-11-12T03:15:05Z"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "opponent": "Texas State",
+      "game_date": "2026-11-14",
+      "label": "Initial",
+      "released_at": "2026-11-12T03:09:25Z"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Oregon State",
+      "opponent": "Boise State",
+      "game_date": "2026-11-14",
+      "label": "Initial",
+      "released_at": "2026-11-12T03:10:38Z"
+    },
+    {
+      "conference": "Pac12",
+      "team": "San Diego State",
+      "opponent": "Utah State",
+      "game_date": "2026-11-14",
+      "label": "Initial",
+      "released_at": "2026-11-12T03:13:43Z"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Texas State",
+      "opponent": "Fresno State",
+      "game_date": "2026-11-14",
+      "label": "Initial",
+      "released_at": "2026-11-12T03:09:25Z"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Utah State",
+      "opponent": "San Diego State",
+      "game_date": "2026-11-14",
+      "label": "Initial",
+      "released_at": "2026-11-12T03:13:43Z"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Washington State",
+      "opponent": "Colorado State",
+      "game_date": "2026-11-14",
+      "label": "Initial",
+      "released_at": "2026-11-12T03:15:05Z"
+    }
+  ]
 }
