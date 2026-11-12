@@ -526,7 +526,7 @@
       "updates": [
         {
           "label": "Initial",
-          "status": "Out for Season",
+          "status": "Out",
           "status_raw": "Out"
         }
       ],
@@ -1248,7 +1248,7 @@
       "updates": [
         {
           "label": "Initial",
-          "status": "Out for Season",
+          "status": "Out",
           "status_raw": "Out"
         }
       ],
