@@ -14213,6 +14213,424 @@
       "position": null,
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Memphis",
+      "player": "Aaron Karas",
+      "number": "59",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Memphis",
+      "player": "Desmond Cox",
+      "number": "39",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Memphis",
+      "player": "J'Mari Monette",
+      "number": "94",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Memphis",
+      "player": "Richard Thigpen",
+      "number": "74",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "Memphis",
+      "player": "Trey McDonald",
+      "number": "40",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "A'Mon Lane-Ganus",
+      "number": "20",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Amarion Fortenberry",
+      "number": "8",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Arhmad Branch",
+      "number": "4",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Ashton Mosley",
+      "number": "33",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "C.J. Hicks",
+      "number": "1",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Cash Hudson",
+      "number": "72",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "D.J. Crowther",
+      "number": "5",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Ethan Green",
+      "number": "79",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Gabe Legrand",
+      "number": "82",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Grayson Howard",
+      "number": "0",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Iverson Garcia-Ponce",
+      "number": "95",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Jaden Alexis",
+      "number": "12",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "JeyQuan Smith",
+      "number": "19",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Keyshaun Birks",
+      "number": "34",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Michael Van Buren Jr.",
+      "number": "3",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Ryan Jenkins",
+      "number": "28",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "player": "Thomas Shrader",
+      "number": "67",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
     }
   ],
   "team_reports": [
@@ -14789,6 +15207,22 @@
       "team": "UAB",
       "opponent": "Charlotte",
       "game_date": "2026-11-07",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "Memphis",
+      "opponent": "South Fla.",
+      "game_date": "2026-11-12",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "American",
+      "team": "South Fla.",
+      "opponent": "Memphis",
+      "game_date": "2026-11-12",
       "label": "Game Day",
       "released_at": null
     }
