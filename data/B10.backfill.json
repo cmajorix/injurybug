@@ -3168,7 +3168,7 @@
       "conference": "B10",
       "team": "Maryland",
       "player": "Dontay Joyner",
-      "number": "16",
+      "number": "29",
       "opponent": "UCLA",
       "game_date": "2026-09-26",
       "week": 4,
@@ -10332,7 +10332,7 @@
       "conference": "B10",
       "team": "Maryland",
       "player": "Dontay Joyner",
-      "number": "16",
+      "number": "29",
       "opponent": "Nebraska",
       "game_date": "2026-10-03",
       "week": 5,
@@ -15670,7 +15670,7 @@
       "conference": "B10",
       "team": "Maryland",
       "player": "Dontay Joyner",
-      "number": "16",
+      "number": "29",
       "opponent": "Ohio St.",
       "game_date": "2026-10-10",
       "week": 6,
@@ -40679,6 +40679,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -40706,6 +40711,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -40737,6 +40747,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -40766,6 +40781,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -40793,6 +40813,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -40824,6 +40849,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -40853,6 +40883,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -40880,6 +40915,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -40911,6 +40951,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -40938,6 +40983,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -40969,6 +41019,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -40996,6 +41051,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -41027,6 +41087,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41054,6 +41119,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41085,6 +41155,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -41112,6 +41187,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41143,6 +41223,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41170,6 +41255,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41201,6 +41291,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41228,6 +41323,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41259,6 +41359,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41288,6 +41393,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -41315,6 +41425,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41346,6 +41461,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41375,6 +41495,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -41397,6 +41522,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -41423,6 +41553,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41445,6 +41580,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41471,6 +41611,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -41493,6 +41638,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41519,6 +41669,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41541,6 +41696,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41567,6 +41727,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -41589,6 +41754,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41615,6 +41785,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -41637,6 +41812,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41663,6 +41843,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41685,6 +41870,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41711,6 +41901,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41733,6 +41928,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -41759,6 +41959,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41781,6 +41986,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -41807,6 +42017,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -41817,7 +42032,7 @@
       "conference": "B10",
       "team": "Maryland",
       "player": "Dontay Joyner",
-      "number": "16",
+      "number": "29",
       "opponent": "Wisconsin",
       "game_date": "2026-11-14",
       "week": 11,
@@ -41829,6 +42044,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -41855,6 +42075,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41877,6 +42102,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -41903,6 +42133,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -41925,6 +42160,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -41951,6 +42191,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -41973,6 +42218,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -41999,6 +42249,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -42021,6 +42276,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -42047,6 +42307,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42069,6 +42334,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42095,6 +42365,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42117,6 +42392,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42143,6 +42423,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -42165,6 +42450,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -42191,6 +42481,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42213,6 +42508,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -42239,6 +42539,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -42261,6 +42566,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -42287,6 +42597,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -42309,6 +42624,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -42335,6 +42655,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42357,6 +42682,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42383,6 +42713,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42405,6 +42740,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -42431,6 +42771,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -42453,6 +42798,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42479,6 +42829,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42501,6 +42856,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -42527,6 +42887,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -42549,6 +42914,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42575,6 +42945,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42597,6 +42972,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42623,6 +43003,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -42645,6 +43030,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42671,6 +43061,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42693,6 +43088,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42719,6 +43119,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42741,6 +43146,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -42767,6 +43177,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42789,6 +43204,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -42815,6 +43235,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42837,6 +43262,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42863,6 +43293,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42885,6 +43320,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -42911,6 +43351,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -42933,6 +43378,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -42959,6 +43409,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -42983,6 +43438,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43007,6 +43467,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -43031,6 +43496,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43053,6 +43523,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43079,6 +43554,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43101,6 +43581,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43127,6 +43612,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43149,6 +43639,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -43175,6 +43670,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43197,6 +43697,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43223,6 +43728,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -43245,6 +43755,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43271,6 +43786,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43293,6 +43813,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43319,6 +43844,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43341,6 +43871,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43367,6 +43902,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43389,6 +43929,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43415,6 +43960,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43437,6 +43987,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43463,6 +44018,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43485,6 +44045,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43511,6 +44076,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43533,6 +44103,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43559,6 +44134,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43581,6 +44161,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -43607,6 +44192,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43631,6 +44221,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -43655,6 +44250,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -43677,6 +44277,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43703,6 +44308,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -43727,6 +44337,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -43749,6 +44364,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43775,6 +44395,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43797,6 +44422,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43823,6 +44453,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -43845,6 +44480,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -43871,6 +44511,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43893,6 +44538,40 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Ohio St.",
+      "player": "Phillip Daniels",
+      "number": "70",
+      "opponent": "Northwestern",
+      "game_date": "2026-11-14",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -43919,6 +44598,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -43941,6 +44625,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -43967,6 +44656,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -43989,6 +44683,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44015,6 +44714,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44037,6 +44741,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44063,6 +44772,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44085,6 +44799,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44111,6 +44830,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -44133,6 +44857,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44159,6 +44888,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44181,6 +44915,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44207,6 +44946,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44229,6 +44973,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -44255,6 +45004,11 @@
           "label": "Update 1",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -44277,6 +45031,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -44303,6 +45062,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -44325,6 +45089,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44351,6 +45120,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -44373,6 +45147,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44399,6 +45178,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44421,6 +45205,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -44447,6 +45236,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44469,6 +45263,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44495,6 +45294,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44517,6 +45321,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -44543,6 +45352,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -44565,6 +45379,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44591,6 +45410,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -44613,6 +45437,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44639,6 +45468,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -44663,6 +45497,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44685,6 +45524,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44711,6 +45555,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44735,6 +45584,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -44757,6 +45611,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44783,6 +45642,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -44807,6 +45671,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44829,6 +45698,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44855,6 +45729,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44877,6 +45756,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44903,6 +45787,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44925,6 +45814,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44951,6 +45845,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -44973,6 +45872,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -44999,6 +45903,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -45021,6 +45930,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -45047,6 +45961,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -45071,6 +45990,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -45093,6 +46017,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -45119,6 +46048,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -45141,6 +46075,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -45167,6 +46106,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -45189,6 +46133,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -45215,6 +46164,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -45237,6 +46191,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -45263,6 +46222,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -45287,6 +46251,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -45309,6 +46278,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -45335,6 +46309,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -45359,6 +46338,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -45381,6 +46365,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -45407,6 +46396,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -45429,6 +46423,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -45455,6 +46454,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -45479,6 +46483,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -45501,6 +46510,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -45527,6 +46541,40 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Sebastian Cheeks",
+      "number": "15",
+      "opponent": "Maryland",
+      "game_date": "2026-11-14",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -48985,6 +50033,14 @@
     },
     {
       "conference": "B10",
+      "team": "Illinois",
+      "opponent": "UCLA",
+      "game_date": "2026-11-13",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "UCLA",
       "opponent": "Illinois",
       "game_date": "2026-11-13",
@@ -49009,6 +50065,14 @@
     },
     {
       "conference": "B10",
+      "team": "UCLA",
+      "opponent": "Illinois",
+      "game_date": "2026-11-13",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Indiana",
       "opponent": "Southern California",
       "game_date": "2026-11-14",
@@ -49021,6 +50085,14 @@
       "opponent": "Southern California",
       "game_date": "2026-11-14",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Indiana",
+      "opponent": "Southern California",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -49041,6 +50113,14 @@
     },
     {
       "conference": "B10",
+      "team": "Iowa",
+      "opponent": "Purdue",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Maryland",
       "opponent": "Wisconsin",
       "game_date": "2026-11-14",
@@ -49053,6 +50133,14 @@
       "opponent": "Wisconsin",
       "game_date": "2026-11-14",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Maryland",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -49073,6 +50161,14 @@
     },
     {
       "conference": "B10",
+      "team": "Michigan",
+      "opponent": "Oregon",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Michigan St.",
       "opponent": "Washington",
       "game_date": "2026-11-14",
@@ -49085,6 +50181,14 @@
       "opponent": "Washington",
       "game_date": "2026-11-14",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "opponent": "Washington",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -49105,6 +50209,14 @@
     },
     {
       "conference": "B10",
+      "team": "Minnesota",
+      "opponent": "Penn St.",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Nebraska",
       "opponent": "Rutgers",
       "game_date": "2026-11-14",
@@ -49117,6 +50229,14 @@
       "opponent": "Rutgers",
       "game_date": "2026-11-14",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "opponent": "Rutgers",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -49137,6 +50257,14 @@
     },
     {
       "conference": "B10",
+      "team": "Northwestern",
+      "opponent": "Ohio St.",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Ohio St.",
       "opponent": "Northwestern",
       "game_date": "2026-11-14",
@@ -49149,6 +50277,14 @@
       "opponent": "Northwestern",
       "game_date": "2026-11-14",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Ohio St.",
+      "opponent": "Northwestern",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -49169,6 +50305,14 @@
     },
     {
       "conference": "B10",
+      "team": "Oregon",
+      "opponent": "Michigan",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Penn St.",
       "opponent": "Minnesota",
       "game_date": "2026-11-14",
@@ -49181,6 +50325,14 @@
       "opponent": "Minnesota",
       "game_date": "2026-11-14",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Penn St.",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -49201,6 +50353,14 @@
     },
     {
       "conference": "B10",
+      "team": "Purdue",
+      "opponent": "Iowa",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Rutgers",
       "opponent": "Nebraska",
       "game_date": "2026-11-14",
@@ -49213,6 +50373,14 @@
       "opponent": "Nebraska",
       "game_date": "2026-11-14",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Rutgers",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -49233,6 +50401,14 @@
     },
     {
       "conference": "B10",
+      "team": "Southern California",
+      "opponent": "Indiana",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Washington",
       "opponent": "Michigan St.",
       "game_date": "2026-11-14",
@@ -49249,6 +50425,14 @@
     },
     {
       "conference": "B10",
+      "team": "Washington",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
       "team": "Wisconsin",
       "opponent": "Maryland",
       "game_date": "2026-11-14",
@@ -49261,6 +50445,14 @@
       "opponent": "Maryland",
       "game_date": "2026-11-14",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "opponent": "Maryland",
+      "game_date": "2026-11-14",
+      "label": "Update 2",
       "released_at": null
     }
   ]
