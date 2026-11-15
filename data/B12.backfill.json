@@ -28451,6 +28451,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -28478,6 +28483,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -28509,6 +28519,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -28536,6 +28551,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -28567,6 +28587,45 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "player": "Keytrin Harris",
+      "number": "27",
+      "opponent": "Utah",
+      "game_date": "2026-11-14",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -28596,6 +28655,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -28623,6 +28687,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -28654,6 +28723,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -28681,6 +28755,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -28712,6 +28791,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -28741,6 +28825,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -28768,6 +28857,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -28799,6 +28893,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -28847,6 +28946,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -28876,6 +28980,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -28903,6 +29012,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -28934,6 +29048,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -28961,6 +29080,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -28992,6 +29116,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29019,6 +29148,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -29050,6 +29184,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29077,6 +29216,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29108,6 +29252,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29135,6 +29284,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29166,6 +29320,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29193,6 +29352,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29224,6 +29388,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29253,6 +29422,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -29280,6 +29454,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29311,6 +29490,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -29338,6 +29522,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29393,6 +29582,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29422,6 +29616,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -29475,6 +29674,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -29502,6 +29706,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -29533,6 +29742,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29560,6 +29774,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29591,6 +29810,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29618,6 +29842,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -29649,6 +29878,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -29678,6 +29912,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -29705,6 +29944,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29736,6 +29980,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29763,6 +30012,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29794,6 +30048,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -29821,6 +30080,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29852,6 +30116,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -29879,6 +30148,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -29910,6 +30184,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -29937,6 +30216,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -29987,6 +30271,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30014,6 +30303,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30045,6 +30339,11 @@
           "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30074,6 +30373,11 @@
           "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30101,6 +30405,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30132,6 +30441,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30159,6 +30473,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30190,6 +30509,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30217,6 +30541,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -30248,6 +30577,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30277,6 +30611,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30304,6 +30643,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30335,6 +30679,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30364,6 +30713,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -30391,6 +30745,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30422,6 +30781,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30449,6 +30813,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30480,6 +30849,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30509,6 +30883,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30536,6 +30915,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30567,6 +30951,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30594,6 +30983,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30625,6 +31019,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30654,6 +31053,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30683,6 +31087,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30710,6 +31119,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30741,6 +31155,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30768,6 +31187,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30799,6 +31223,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30828,6 +31257,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30855,6 +31289,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -30886,6 +31325,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -30915,6 +31359,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30944,6 +31393,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -30973,6 +31427,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -31000,6 +31459,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31031,6 +31495,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -31058,6 +31527,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31089,6 +31563,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -31118,6 +31597,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -31147,6 +31631,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -31174,6 +31663,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31205,6 +31699,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -31234,6 +31733,45 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Matthew Occhipinti",
+      "number": "32",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-14",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -31263,6 +31801,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -31290,6 +31833,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31321,6 +31869,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -31348,6 +31901,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -31379,6 +31937,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -31406,6 +31969,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -31437,6 +32005,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -31464,6 +32037,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31495,6 +32073,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -31522,6 +32105,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31553,6 +32141,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -31580,6 +32173,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31611,6 +32209,45 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Jacorey Thomas",
+      "number": "30",
+      "opponent": "Kansas",
+      "game_date": "2026-11-14",
+      "week": 11,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -31640,6 +32277,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -31667,6 +32309,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -34839,6 +35486,14 @@
     },
     {
       "conference": "B12",
+      "team": "Arizona",
+      "opponent": "Utah",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Arizona St.",
       "opponent": "UCF",
       "game_date": "2026-11-14",
@@ -34859,6 +35514,14 @@
       "opponent": "UCF",
       "game_date": "2026-11-14",
       "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "opponent": "UCF",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
       "released_at": null
     },
     {
@@ -34887,6 +35550,14 @@
     },
     {
       "conference": "B12",
+      "team": "BYU",
+      "opponent": "Baylor",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Baylor",
       "opponent": "BYU",
       "game_date": "2026-11-14",
@@ -34907,6 +35578,14 @@
       "opponent": "BYU",
       "game_date": "2026-11-14",
       "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "opponent": "BYU",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
       "released_at": null
     },
     {
@@ -34935,6 +35614,14 @@
     },
     {
       "conference": "B12",
+      "team": "Cincinnati",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Iowa St.",
       "opponent": "Cincinnati",
       "game_date": "2026-11-14",
@@ -34955,6 +35642,14 @@
       "opponent": "Cincinnati",
       "game_date": "2026-11-14",
       "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "opponent": "Cincinnati",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
       "released_at": null
     },
     {
@@ -34983,6 +35678,14 @@
     },
     {
       "conference": "B12",
+      "team": "Kansas",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Kansas St.",
       "opponent": "TCU",
       "game_date": "2026-11-14",
@@ -35003,6 +35706,14 @@
       "opponent": "TCU",
       "game_date": "2026-11-14",
       "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "opponent": "TCU",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
       "released_at": null
     },
     {
@@ -35031,6 +35742,14 @@
     },
     {
       "conference": "B12",
+      "team": "Oklahoma St.",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "TCU",
       "opponent": "Kansas St.",
       "game_date": "2026-11-14",
@@ -35051,6 +35770,14 @@
       "opponent": "Kansas St.",
       "game_date": "2026-11-14",
       "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "opponent": "Kansas St.",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
       "released_at": null
     },
     {
@@ -35079,6 +35806,14 @@
     },
     {
       "conference": "B12",
+      "team": "Texas Tech",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "UCF",
       "opponent": "Arizona St.",
       "game_date": "2026-11-14",
@@ -35099,6 +35834,14 @@
       "opponent": "Arizona St.",
       "game_date": "2026-11-14",
       "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
       "released_at": null
     },
     {
@@ -35127,6 +35870,14 @@
     },
     {
       "conference": "B12",
+      "team": "Utah",
+      "opponent": "Arizona",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "West Virginia",
       "opponent": "Kansas",
       "game_date": "2026-11-14",
@@ -35147,6 +35898,14 @@
       "opponent": "Kansas",
       "game_date": "2026-11-14",
       "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "opponent": "Kansas",
+      "game_date": "2026-11-14",
+      "label": "Game Day",
       "released_at": null
     }
   ]
