@@ -1,6 +1,461 @@
 {
   "conference": "MAC",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Alijah Lacey",
+      "number": "53",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Barry Manning",
+      "number": "3",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Caleb Coley",
+      "number": "16",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Cole Powell",
+      "number": "77",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Jaivian Norman",
+      "number": "8",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Jason Marshall",
+      "number": "13",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Javon Thomas",
+      "number": "55",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Joey Mattord",
+      "number": "24",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Joshua Anderson",
+      "number": "66",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Noah Kim",
+      "number": "1",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Samuel Adjin",
+      "number": "70",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "player": "Tanner Lemaster",
+      "number": "88",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "August Johanningsmeier",
+      "number": "88",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Aveion Chenault",
+      "number": "2",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Emazon Littlejohn",
+      "number": "1",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Harper Hughes",
+      "number": "80",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Jeremy Schleicher",
+      "number": "65",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Justyce Betts",
+      "number": "5",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Noah Bishop",
+      "number": "97",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Ofa \"Lolo\" Mataele",
+      "number": "24",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Ryan Brotherton",
+      "number": "83",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Ryan Westrich",
+      "number": "67",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "player": "Trey Petty",
+      "number": "10",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "MAC",
+      "team": "Eastern Mich.",
+      "opponent": "Western Mich.",
+      "game_date": "2026-11-17",
+      "label": "Game Day",
+      "released_at": "2026-11-17T22:00:00Z"
+    },
+    {
+      "conference": "MAC",
+      "team": "Western Mich.",
+      "opponent": "Eastern Mich.",
+      "game_date": "2026-11-17",
+      "label": "Game Day",
+      "released_at": "2026-11-17T22:00:00Z"
+    }
+  ]
 }
