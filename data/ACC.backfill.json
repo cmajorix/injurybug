@@ -53332,6 +53332,728 @@
       "position": null,
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Braden Wilmes",
+      "number": "79",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Champ Thompson",
+      "number": "29",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Christopher Vizzina",
+      "number": "17",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Cole Turner",
+      "number": "22",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Corian Gipson",
+      "number": "8",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "David Eziomume",
+      "number": "24",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Donovan Starr",
+      "number": "0",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Easton Ware",
+      "number": "63",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Gideon Davidson",
+      "number": "8",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Harris Sewell",
+      "number": "55",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Jeremiah Alexander",
+      "number": "7",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Markus Strong",
+      "number": "99",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Mason Wade",
+      "number": "76",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Polo Anderson",
+      "number": "11",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Shavar Young Jr.",
+      "number": "12",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Tait Reynolds",
+      "number": "2",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Tyler Brown",
+      "number": "6",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "player": "Vic Burley",
+      "number": "45",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Bryce Davis",
+      "number": "12",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Cole Allen",
+      "number": "62",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Cosme Salas",
+      "number": "39",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "David Anderson",
+      "number": "44",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Dylan Flowers",
+      "number": "0",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Elliott Schaper",
+      "number": "31",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Evan Smith",
+      "number": "4",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Jack Gaskins",
+      "number": "84",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Jamien Little",
+      "number": "1",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kai Jacobowitz",
+      "number": "65",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kavon Simmons",
+      "number": "7",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kevin O'Connor",
+      "number": "15",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kimari Robinson",
+      "number": "5",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kyon Loud",
+      "number": "1",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Nate Kurisky",
+      "number": "44",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Patrick Smith-Young",
+      "number": "2",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Qeanu Johnson",
+      "number": "21",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Reagan McCranie",
+      "number": "74",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Roman Fina",
+      "number": "79",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Terry Walker III",
+      "number": "13",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
     }
   ],
   "team_reports": [
@@ -57173,6 +57895,22 @@
       "opponent": "SMU",
       "game_date": "2026-11-14",
       "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Clemson",
+      "opponent": "Duke",
+      "game_date": "2026-11-20",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "opponent": "Clemson",
+      "game_date": "2026-11-20",
+      "label": "Initial",
       "released_at": null
     }
   ]
