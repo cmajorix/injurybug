@@ -1,6 +1,290 @@
 {
   "conference": "B12",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Carson Willich",
+      "number": "10",
+      "opponent": "UCF",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Cody Jackson",
+      "number": "2",
+      "opponent": "UCF",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Connor Moberly",
+      "number": "5",
+      "opponent": "UCF",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Ka'Mori Moore",
+      "number": "95",
+      "opponent": "UCF",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DT",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Maasai King",
+      "number": "51",
+      "opponent": "UCF",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "player": "Malcolm Watkins",
+      "number": "80",
+      "opponent": "UCF",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Caden Piening",
+      "number": "18",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "DJ Bell",
+      "number": "5",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Demari Henderson",
+      "number": "8",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Duke Watson",
+      "number": "26",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Horace Lockett",
+      "number": "0",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DT",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Jayden Jennings",
+      "number": "38",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Kahmel Johnson",
+      "number": "14",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "player": "Waden Charles",
+      "number": "9",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "B12",
+      "team": "Iowa St.",
+      "opponent": "UCF",
+      "game_date": "2026-11-20",
+      "label": "Initial",
+      "released_at": "2026-11-18T03:00:00Z"
+    },
+    {
+      "conference": "B12",
+      "team": "UCF",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "label": "Initial",
+      "released_at": "2026-11-18T03:00:00Z"
+    }
+  ]
 }

@@ -1,6 +1,537 @@
 {
   "conference": "B10",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Alessio Milivojevic",
+      "number": "11",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Ben Roberts",
+      "number": "55",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Brennan Parachek",
+      "number": "82",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Cam Edwards",
+      "number": "0",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Cam Fancher",
+      "number": "2",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Conner Moore",
+      "number": "58",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Devin Vaught",
+      "number": "2",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Jay Coyne",
+      "number": "44",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "FB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Jayden Savoury",
+      "number": "31",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Jaziun Patterson",
+      "number": "4",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Joe Caudill",
+      "number": "87",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Jordan Hall",
+      "number": "5",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Marvis Parrish",
+      "number": "21",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Michael Richard",
+      "number": "7",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Rodney Bullard Jr.",
+      "number": "3",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Tre Bell",
+      "number": "3",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "player": "Tristan Comer",
+      "number": "79",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Aaron Flowers",
+      "number": "21",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Bear Alexander",
+      "number": "1",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Brayden Platt",
+      "number": "23",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Dante Moore",
+      "number": "5",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Dave Iuli",
+      "number": "74",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Jerry Mixon",
+      "number": "6",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "ILB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Jordon Davison",
+      "number": "0",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Matthew Johnson",
+      "number": "55",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Teitum Tuioti",
+      "number": "44",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OLB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "player": "Trent Ferguson",
+      "number": "56",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "B10",
+      "team": "Michigan St.",
+      "opponent": "Oregon",
+      "game_date": "2026-11-20",
+      "label": "Initial",
+      "released_at": "2026-11-18T01:00:00Z"
+    },
+    {
+      "conference": "B10",
+      "team": "Oregon",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-20",
+      "label": "Initial",
+      "released_at": "2026-11-18T01:00:00Z"
+    }
+  ]
 }
