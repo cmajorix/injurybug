@@ -1,6 +1,575 @@
 {
   "conference": "American",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Ben Grice",
+      "number": "6",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "SL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Chibby Nwajuaku",
+      "number": "16",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Colten Cole",
+      "number": "82",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Ian Bothwell",
+      "number": "77",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Jai Jacobs-Ford",
+      "number": "29",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "SL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Jamir Benjamin",
+      "number": "12",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Lucas Scheerhorn",
+      "number": "2",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Michael Amey III",
+      "number": "27",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Quinton Jackson",
+      "number": "10",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Rice",
+      "player": "Tariq Watson",
+      "number": "4",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Ajani Sheppard",
+      "number": "13",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Brandon Enarusai",
+      "number": "34",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Denzel Chavis",
+      "number": "13",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Devontae Ward-Grant",
+      "number": "27",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Jayvant Brown",
+      "number": "30",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Jett White",
+      "number": "20",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "JoJo Bermudez",
+      "number": "17",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Kaegan Chambers",
+      "number": "87",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Kechan Miller",
+      "number": "71",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Kenedy Uzoma",
+      "number": "83",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Kevin Terry",
+      "number": "55",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Luke Watson",
+      "number": "75",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Peter Clarke",
+      "number": "0",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Pooh Lawton",
+      "number": "16",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Rameir Hardy",
+      "number": "85",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Reggie Jones",
+      "number": "53",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Sam Brown V",
+      "number": "5",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Troy Cunningham",
+      "number": "95",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "player": "Zander Baptiste",
+      "number": "89",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "American",
+      "team": "Rice",
+      "opponent": "Temple",
+      "game_date": "2026-11-19",
+      "label": "Game Day",
+      "released_at": "2026-11-19T22:30:00Z"
+    },
+    {
+      "conference": "American",
+      "team": "Temple",
+      "opponent": "Rice",
+      "game_date": "2026-11-19",
+      "label": "Game Day",
+      "released_at": "2026-11-19T22:30:00Z"
+    }
+  ]
 }
