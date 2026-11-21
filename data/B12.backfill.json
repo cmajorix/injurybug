@@ -32345,6 +32345,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -32372,6 +32377,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -32403,6 +32413,11 @@
           "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -32430,6 +32445,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -32461,6 +32481,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32488,6 +32513,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -32519,6 +32549,11 @@
           "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32548,6 +32583,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32575,6 +32615,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -32606,6 +32651,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32635,6 +32685,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -32664,6 +32719,11 @@
           "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": null,
@@ -32691,6 +32751,11 @@
         },
         {
           "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Game Day",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -32722,6 +32787,11 @@
           "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32746,6 +32816,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32770,6 +32845,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -32794,6 +32874,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -32816,6 +32901,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -32842,6 +32932,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32864,6 +32959,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -32890,6 +32990,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32912,6 +33017,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -32938,6 +33048,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32962,6 +33077,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -32984,6 +33104,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33034,6 +33159,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -33056,6 +33186,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -33082,6 +33217,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -33106,6 +33246,40 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "player": "Keanu Tanuvasa",
+      "number": "57",
+      "opponent": "Kansas",
+      "game_date": "2026-11-21",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -33128,6 +33302,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -33154,6 +33333,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -33176,6 +33360,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33202,6 +33391,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -33224,6 +33418,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33250,6 +33449,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -33272,6 +33476,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33298,6 +33507,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -33320,6 +33534,40 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Baylor",
+      "player": "Jaydon Mendiola",
+      "number": "64",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-21",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33346,6 +33594,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -33368,6 +33621,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33394,6 +33652,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -33416,6 +33679,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -33442,6 +33710,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -33464,6 +33737,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33490,6 +33768,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -33514,6 +33797,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -33557,6 +33845,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -33579,6 +33872,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33605,6 +33903,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -33627,6 +33930,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33653,6 +33961,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -33675,6 +33988,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33701,6 +34019,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -33723,6 +34046,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -33749,6 +34077,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -33771,6 +34104,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33797,6 +34135,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -33821,6 +34164,40 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "player": "Conner Weigman",
+      "number": "1",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-21",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -33843,6 +34220,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -33869,6 +34251,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -33891,6 +34278,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -33917,6 +34309,11 @@
           "label": "Update 1",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -33941,6 +34338,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -33963,6 +34365,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -33989,6 +34396,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34011,6 +34423,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34056,6 +34473,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34078,6 +34500,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34104,6 +34531,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -34128,6 +34560,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34150,6 +34587,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34176,6 +34618,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34198,6 +34645,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34224,6 +34676,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -34246,6 +34703,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34291,6 +34753,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34315,6 +34782,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -34337,6 +34809,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34363,6 +34840,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34387,6 +34869,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34409,6 +34896,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -34435,6 +34927,11 @@
           "label": "Update 1",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34457,6 +34954,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34483,6 +34985,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -34507,6 +35014,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34529,6 +35041,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -34555,6 +35072,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -34577,6 +35099,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34603,6 +35130,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -34625,6 +35157,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34651,6 +35188,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -34675,6 +35217,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34697,6 +35244,40 @@
         },
         {
           "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Brice Pollock",
+      "number": "14",
+      "opponent": "Baylor",
+      "game_date": "2026-11-21",
+      "week": 12,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -34723,6 +35304,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -34745,6 +35331,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34771,6 +35362,11 @@
           "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -34795,6 +35391,11 @@
           "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34819,6 +35420,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34841,6 +35447,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -34867,6 +35478,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34889,6 +35505,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -34915,6 +35536,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34937,6 +35563,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
           "status": "Available",
           "status_raw": "Available"
         }
@@ -34963,6 +35594,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34985,6 +35621,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -35011,6 +35652,11 @@
           "label": "Update 1",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -35033,6 +35679,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35059,6 +35710,11 @@
           "label": "Update 1",
           "status": "Available",
           "status_raw": "Available"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -35083,6 +35739,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -35107,6 +35768,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -35129,6 +35795,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35155,6 +35826,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -35177,6 +35853,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35203,6 +35884,11 @@
           "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -35225,6 +35911,11 @@
         },
         {
           "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35251,6 +35942,11 @@
           "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 2",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -38869,6 +39565,14 @@
     },
     {
       "conference": "B12",
+      "team": "Iowa St.",
+      "opponent": "UCF",
+      "game_date": "2026-11-20",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "UCF",
       "opponent": "Iowa St.",
       "game_date": "2026-11-20",
@@ -38893,6 +39597,14 @@
     },
     {
       "conference": "B12",
+      "team": "UCF",
+      "opponent": "Iowa St.",
+      "game_date": "2026-11-20",
+      "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Arizona",
       "opponent": "Kansas St.",
       "game_date": "2026-11-21",
@@ -38905,6 +39617,14 @@
       "opponent": "Kansas St.",
       "game_date": "2026-11-21",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona",
+      "opponent": "Kansas St.",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -38925,6 +39645,14 @@
     },
     {
       "conference": "B12",
+      "team": "Arizona St.",
+      "opponent": "Oklahoma St.",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "BYU",
       "opponent": "Kansas",
       "game_date": "2026-11-21",
@@ -38937,6 +39665,14 @@
       "opponent": "Kansas",
       "game_date": "2026-11-21",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "BYU",
+      "opponent": "Kansas",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -38957,6 +39693,14 @@
     },
     {
       "conference": "B12",
+      "team": "Baylor",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Cincinnati",
       "opponent": "Colorado",
       "game_date": "2026-11-21",
@@ -38969,6 +39713,14 @@
       "opponent": "Colorado",
       "game_date": "2026-11-21",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Cincinnati",
+      "opponent": "Colorado",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -38989,6 +39741,14 @@
     },
     {
       "conference": "B12",
+      "team": "Colorado",
+      "opponent": "Cincinnati",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Houston",
       "opponent": "West Virginia",
       "game_date": "2026-11-21",
@@ -39001,6 +39761,14 @@
       "opponent": "West Virginia",
       "game_date": "2026-11-21",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Houston",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -39021,6 +39789,14 @@
     },
     {
       "conference": "B12",
+      "team": "Kansas",
+      "opponent": "BYU",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Kansas St.",
       "opponent": "Arizona",
       "game_date": "2026-11-21",
@@ -39033,6 +39809,14 @@
       "opponent": "Arizona",
       "game_date": "2026-11-21",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "Kansas St.",
+      "opponent": "Arizona",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -39053,6 +39837,14 @@
     },
     {
       "conference": "B12",
+      "team": "Oklahoma St.",
+      "opponent": "Arizona St.",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "TCU",
       "opponent": "Utah",
       "game_date": "2026-11-21",
@@ -39065,6 +39857,14 @@
       "opponent": "Utah",
       "game_date": "2026-11-21",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "opponent": "Utah",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
       "released_at": null
     },
     {
@@ -39085,6 +39885,14 @@
     },
     {
       "conference": "B12",
+      "team": "Texas Tech",
+      "opponent": "Baylor",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "Utah",
       "opponent": "TCU",
       "game_date": "2026-11-21",
@@ -39101,6 +39909,14 @@
     },
     {
       "conference": "B12",
+      "team": "Utah",
+      "opponent": "TCU",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
       "team": "West Virginia",
       "opponent": "Houston",
       "game_date": "2026-11-21",
@@ -39113,6 +39929,14 @@
       "opponent": "Houston",
       "game_date": "2026-11-21",
       "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "opponent": "Houston",
+      "game_date": "2026-11-21",
+      "label": "Update 2",
       "released_at": null
     }
   ]
