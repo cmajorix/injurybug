@@ -12,9 +12,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "DL",
@@ -31,7 +31,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -50,9 +50,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "ILB",
@@ -69,7 +69,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -88,7 +88,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -107,9 +107,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "TE",
@@ -126,7 +126,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -145,9 +145,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "OL",
@@ -164,7 +164,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -183,9 +183,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "OL",
@@ -202,9 +202,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "OL",
@@ -221,7 +221,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -240,7 +240,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -259,7 +259,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -278,9 +278,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "DB",
@@ -297,7 +297,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -316,9 +316,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DL",
@@ -335,9 +335,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "WR",
@@ -354,7 +354,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -373,9 +373,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "ILB",
@@ -392,7 +392,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -411,9 +411,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DL",
@@ -430,9 +430,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "DB",
@@ -449,9 +449,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "OL",
@@ -468,9 +468,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "QB",
@@ -487,9 +487,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "WR",
@@ -506,7 +506,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -525,7 +525,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -544,9 +544,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DB",
@@ -563,7 +563,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -582,7 +582,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -601,7 +601,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -620,7 +620,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -639,7 +639,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -658,7 +658,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -677,7 +677,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -696,7 +696,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -715,7 +715,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -734,12 +734,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
-      "position": "QB",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -753,12 +753,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
-      "position": "DB",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -772,12 +772,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
-      "position": "RB",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -791,12 +791,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
-      "position": "WR",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -810,12 +810,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
       ],
-      "position": "OL",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -829,12 +829,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
-      "position": "DB",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -848,12 +848,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
-      "position": "TE",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -867,12 +867,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
-      "position": "WR",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -886,12 +886,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
-      "position": "ILB",
+      "position": null,
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -905,7 +905,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -924,7 +924,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -943,7 +943,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -962,7 +962,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -981,7 +981,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1000,7 +1000,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1019,7 +1019,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1038,7 +1038,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1057,7 +1057,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1076,7 +1076,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1095,9 +1095,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "ILB",
@@ -1114,7 +1114,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1133,9 +1133,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "TE",
@@ -1152,7 +1152,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,9 +1171,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "OLB",
@@ -1190,9 +1190,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "DL",
@@ -1209,9 +1209,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DL",
@@ -1228,7 +1228,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1247,7 +1247,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1266,7 +1266,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1285,7 +1285,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1304,9 +1304,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DB",
@@ -1323,7 +1323,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1342,7 +1342,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1361,7 +1361,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1380,7 +1380,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1399,7 +1399,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1418,7 +1418,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1437,7 +1437,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1456,7 +1456,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1475,7 +1475,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1494,7 +1494,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1513,7 +1513,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1532,12 +1532,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
+    },
+    {
+      "conference": "SunBelt",
+      "team": "South Alabama",
+      "player": "Jaylen Moson",
+      "number": null,
+      "opponent": "Southern Miss",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -1551,7 +1570,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1570,7 +1589,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1589,7 +1608,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1608,7 +1627,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1627,7 +1646,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1646,7 +1665,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1665,9 +1684,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "DL",
@@ -1684,9 +1703,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "OL",
@@ -1703,7 +1722,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1722,7 +1741,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1741,7 +1760,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1760,7 +1779,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1779,7 +1798,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1798,9 +1817,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "WR",
@@ -1817,7 +1836,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1836,7 +1855,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1855,7 +1874,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1874,9 +1893,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "RB",
@@ -1893,7 +1912,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1912,7 +1931,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1931,9 +1950,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "DB",
@@ -1950,7 +1969,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1969,7 +1988,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1988,9 +2007,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "OL",
@@ -2007,9 +2026,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "RB",
@@ -2026,12 +2045,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "WR",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
+    },
+    {
+      "conference": "SunBelt",
+      "team": "ULM",
+      "player": "David Jester",
+      "number": null,
+      "opponent": "App State",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/sunbelt-football/prod/report.json"
     },
@@ -2045,9 +2083,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "DB",
@@ -2064,7 +2102,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -2083,7 +2121,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2102,9 +2140,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DB",
@@ -2121,9 +2159,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "OL",
@@ -2140,7 +2178,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2159,9 +2197,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": "SP",
@@ -2178,7 +2216,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -2197,7 +2235,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -2216,7 +2254,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -2235,9 +2273,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DB",
@@ -2254,9 +2292,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DL",
@@ -2273,9 +2311,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "OL",
@@ -2289,96 +2327,96 @@
       "team": "App State",
       "opponent": "ULM",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:13:02Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:35:00Z"
     },
     {
       "conference": "SunBelt",
       "team": "Arkansas State",
       "opponent": "LA Tech",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:15:17Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:35:48Z"
     },
     {
       "conference": "SunBelt",
       "team": "Coastal Carolina",
       "opponent": "Louisiana",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:47:14Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:36:30Z"
     },
     {
       "conference": "SunBelt",
       "team": "Georgia Southern",
       "opponent": "Troy",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:21:50Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:37:25Z"
     },
     {
       "conference": "SunBelt",
       "team": "Georgia State",
       "opponent": "Marshall",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:11:30Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:34:25Z"
     },
     {
       "conference": "SunBelt",
       "team": "LA Tech",
       "opponent": "Arkansas State",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:15:17Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:35:48Z"
     },
     {
       "conference": "SunBelt",
       "team": "Louisiana",
       "opponent": "Coastal Carolina",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:47:14Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:36:30Z"
     },
     {
       "conference": "SunBelt",
       "team": "Marshall",
       "opponent": "Georgia State",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:11:30Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:34:25Z"
     },
     {
       "conference": "SunBelt",
       "team": "South Alabama",
       "opponent": "Southern Miss",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:19:19Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:36:58Z"
     },
     {
       "conference": "SunBelt",
       "team": "Southern Miss",
       "opponent": "South Alabama",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:19:19Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:36:58Z"
     },
     {
       "conference": "SunBelt",
       "team": "Troy",
       "opponent": "Georgia Southern",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:21:50Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:37:25Z"
     },
     {
       "conference": "SunBelt",
       "team": "ULM",
       "opponent": "App State",
       "game_date": "2026-11-21",
-      "label": "Initial",
-      "released_at": "2026-11-19T01:13:02Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T15:35:00Z"
     }
   ]
 }
