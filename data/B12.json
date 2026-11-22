@@ -259,7 +259,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -278,7 +278,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -297,9 +297,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "OL",
@@ -1114,7 +1114,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1133,7 +1133,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1152,7 +1152,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,9 +1171,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "QB",
@@ -1190,7 +1190,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1209,9 +1209,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "TE",
@@ -1228,7 +1228,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1553,8 +1553,8 @@
       "team": "Arizona St.",
       "opponent": "Oklahoma St.",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-22T01:45:00Z"
     },
     {
       "conference": "B12",
@@ -1617,8 +1617,8 @@
       "team": "Oklahoma St.",
       "opponent": "Arizona St.",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-22T01:45:00Z"
     },
     {
       "conference": "B12",
