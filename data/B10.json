@@ -1088,25 +1088,6 @@
     {
       "conference": "B10",
       "team": "Maryland",
-      "player": "Chris Durr Jr.",
-      "number": "13",
-      "opponent": "Southern California",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Maryland",
       "player": "DJ Samuels",
       "number": "20",
       "opponent": "Southern California",
@@ -1114,7 +1095,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1133,9 +1114,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "RB",
@@ -1152,7 +1133,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,7 +1152,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1190,7 +1171,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1209,31 +1190,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "WR",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Maryland",
-      "player": "Malik Washington",
-      "number": "7",
-      "opponent": "Southern California",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "QB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -1247,9 +1209,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "OL",
@@ -1266,7 +1228,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1285,7 +1247,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2748,9 +2710,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DE",
@@ -2767,7 +2729,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2786,7 +2748,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2805,7 +2767,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2824,7 +2786,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2843,7 +2805,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2862,7 +2824,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2881,7 +2843,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2900,7 +2862,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2919,7 +2881,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3469,8 +3431,8 @@
       "team": "Maryland",
       "opponent": "Southern California",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T21:15:00Z"
     },
     {
       "conference": "B10",
@@ -3541,8 +3503,8 @@
       "team": "Southern California",
       "opponent": "Maryland",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T21:15:00Z"
     },
     {
       "conference": "B10",

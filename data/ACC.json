@@ -784,25 +784,6 @@
     {
       "conference": "ACC",
       "team": "California",
-      "player": "Adam Mohammed",
-      "number": "24",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "RB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
       "player": "Aiden Manutai",
       "number": "14",
       "opponent": "Stanford",
@@ -810,9 +791,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DB",
@@ -829,9 +810,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "RB",
@@ -848,9 +829,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DL",
@@ -867,7 +848,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -886,9 +867,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DB",
@@ -905,50 +886,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "TE",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
-      "player": "EJ Caminong",
-      "number": "2",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "QB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
-      "player": "Ian Strong",
-      "number": "9",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -962,69 +905,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
-      "player": "JD McKinley",
-      "number": "33",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "ILB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
-      "player": "Jaron-Keawe Sagapolutele",
-      "number": "3",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "QB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
-      "player": "Jayden Williams",
-      "number": "51",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -1038,31 +924,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "WR",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
-      "player": "Jordan Sanford",
-      "number": "17",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -1076,9 +943,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "OLB",
@@ -1095,50 +962,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
-      "player": "Khamani Hudson",
-      "number": "25",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "California",
-      "player": "Mason Mini",
-      "number": "85",
-      "opponent": "Stanford",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "TE",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -1152,7 +981,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,7 +1000,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1836,7 +1665,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1855,7 +1684,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1874,7 +1703,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1893,7 +1722,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1912,7 +1741,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1931,9 +1760,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DB",
@@ -1950,7 +1779,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1969,7 +1798,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1988,7 +1817,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2007,7 +1836,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out (1st Half)",
           "status_raw": "Out - (1st Half)"
         }
@@ -2026,7 +1855,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2045,7 +1874,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2064,7 +1893,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2083,7 +1912,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2102,7 +1931,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2121,7 +1950,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2140,7 +1969,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2159,7 +1988,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2178,9 +2007,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DB",
@@ -2710,7 +2539,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2729,31 +2558,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "LB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "Pittsburgh",
-      "player": "Elijah Lagg",
-      "number": "17",
-      "opponent": "Louisville",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "TE",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2767,7 +2577,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2786,9 +2596,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "QB",
@@ -2805,7 +2615,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2824,7 +2634,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2843,7 +2653,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2862,7 +2672,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2881,7 +2691,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2900,7 +2710,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2919,7 +2729,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2938,7 +2748,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2957,7 +2767,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2976,7 +2786,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2995,7 +2805,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3014,7 +2824,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3033,7 +2843,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3052,7 +2862,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3071,7 +2881,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3090,7 +2900,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3109,7 +2919,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3128,7 +2938,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3147,7 +2957,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3166,7 +2976,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3185,31 +2995,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "Stanford",
-      "player": "Nico Brown",
-      "number": "23",
-      "opponent": "California",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -3223,7 +3014,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3242,7 +3033,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3261,7 +3052,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3280,7 +3071,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3299,7 +3090,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3805,25 +3596,6 @@
     {
       "conference": "ACC",
       "team": "Virginia Tech",
-      "player": "Davion Brown",
-      "number": "11",
-      "opponent": "Miami (FL)",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "Virginia Tech",
       "player": "George Ballance",
       "number": "25",
       "opponent": "Miami (FL)",
@@ -3831,50 +3603,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "LB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "Virginia Tech",
-      "player": "Justin Terry",
-      "number": "72",
-      "opponent": "Miami (FL)",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "ACC",
-      "team": "Virginia Tech",
-      "player": "Kenny Woseley Jr.",
-      "number": "22",
-      "opponent": "Miami (FL)",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "CB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -3888,7 +3622,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3907,7 +3641,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3926,7 +3660,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3945,7 +3679,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3964,7 +3698,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3983,7 +3717,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -4002,7 +3736,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -4175,8 +3909,8 @@
       "team": "California",
       "opponent": "Stanford",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T04:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T22:30:00Z"
     },
     {
       "conference": "ACC",
@@ -4199,16 +3933,16 @@
       "team": "Louisville",
       "opponent": "Pittsburgh",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T22:30:00Z"
     },
     {
       "conference": "ACC",
       "team": "Miami (FL)",
       "opponent": "Virginia Tech",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T22:00:00Z"
     },
     {
       "conference": "ACC",
@@ -4231,16 +3965,16 @@
       "team": "Pittsburgh",
       "opponent": "Louisville",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T22:30:00Z"
     },
     {
       "conference": "ACC",
       "team": "Stanford",
       "opponent": "California",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T04:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T22:30:00Z"
     },
     {
       "conference": "ACC",
@@ -4263,8 +3997,8 @@
       "team": "Virginia Tech",
       "opponent": "Miami (FL)",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T22:00:00Z"
     },
     {
       "conference": "ACC",

@@ -3136,6 +3136,367 @@
       "position": "WR",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Antonio Ferguson",
+      "number": "85",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Bam McReynolds",
+      "number": "3",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "CJ Smith",
+      "number": "1",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Colby Archie",
+      "number": "32",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Ja'Vin Simpkins",
+      "number": "7",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Jaylen Elder",
+      "number": "12",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Marlin Dean",
+      "number": "4",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OLB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Mykale Hrabowski",
+      "number": "23",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Nigel Tate",
+      "number": "8",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DT",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "player": "Rhett Cofer",
+      "number": "31",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Bryson Donnell",
+      "number": "22",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Chris Bryson II",
+      "number": "16",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "MB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "DJ Allen Jr.",
+      "number": "15",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "James Walley Jr.",
+      "number": "34",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Johnny Bowens III",
+      "number": "19",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Jonah Miller",
+      "number": "75",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Marcellus Wilkerson",
+      "number": "12",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Mykha Green",
+      "number": "23",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "player": "Sekope Wallace",
+      "number": "53",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     }
   ],
   "team_reports": [
@@ -3234,6 +3595,22 @@
       "game_date": "2026-11-21",
       "label": "Game Day",
       "released_at": "2026-11-21T17:00:00Z"
+    },
+    {
+      "conference": "American",
+      "team": "UAB",
+      "opponent": "UTSA",
+      "game_date": "2026-11-21",
+      "label": "Game Day",
+      "released_at": "2026-11-21T23:00:00Z"
+    },
+    {
+      "conference": "American",
+      "team": "UTSA",
+      "opponent": "UAB",
+      "game_date": "2026-11-21",
+      "label": "Game Day",
+      "released_at": "2026-11-21T23:00:00Z"
     }
   ]
 }

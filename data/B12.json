@@ -164,7 +164,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -183,7 +183,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -202,7 +202,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -221,7 +221,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -240,7 +240,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1019,7 +1019,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1038,9 +1038,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DT",
@@ -1057,7 +1057,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1076,7 +1076,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1095,9 +1095,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "OL",
@@ -1240,44 +1240,6 @@
     {
       "conference": "B12",
       "team": "TCU",
-      "player": "Ansel Din-Mbuh",
-      "number": "92",
-      "opponent": "Utah",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DT",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "TCU",
-      "player": "Cheta Ofili",
-      "number": "36",
-      "opponent": "Utah",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "EDG",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "TCU",
       "player": "G'Ivori Graham",
       "number": "20",
       "opponent": "Utah",
@@ -1285,7 +1247,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1304,9 +1266,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "QB",
@@ -1323,31 +1285,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "LB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "TCU",
-      "player": "Markis Deal",
-      "number": "95",
-      "opponent": "Utah",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DT",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -1456,9 +1399,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "LS",
@@ -1475,7 +1418,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1602,8 +1545,8 @@
       "team": "Arizona",
       "opponent": "Kansas St.",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T22:30:00Z"
     },
     {
       "conference": "B12",
@@ -1666,8 +1609,8 @@
       "team": "Kansas St.",
       "opponent": "Arizona",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T22:30:00Z"
     },
     {
       "conference": "B12",
@@ -1682,8 +1625,8 @@
       "team": "TCU",
       "opponent": "Utah",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-22T00:30:00Z"
     },
     {
       "conference": "B12",
@@ -1698,8 +1641,8 @@
       "team": "Utah",
       "opponent": "TCU",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-22T00:30:00Z"
     },
     {
       "conference": "B12",

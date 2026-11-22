@@ -221,7 +221,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -240,9 +240,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "OL",
@@ -259,7 +259,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -278,9 +278,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DT",
@@ -297,7 +297,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -316,7 +316,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -335,9 +335,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DB",
@@ -354,9 +354,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DB",
@@ -373,7 +373,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -392,7 +392,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -411,31 +411,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "ILB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "SEC",
-      "team": "Kentucky",
-      "player": "Thomas O'Hara",
-      "number": "48",
-      "opponent": "Missouri",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "P",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -613,6 +594,25 @@
     {
       "conference": "SEC",
       "team": "Missouri",
+      "player": "Cameron Keys",
+      "number": "20",
+      "opponent": "Kentucky",
+      "game_date": "2026-11-21",
+      "week": null,
+      "updates": [
+        {
+          "label": "Game Day",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Missouri",
       "player": "Gavin Hoffman",
       "number": "88",
       "opponent": "Kentucky",
@@ -620,31 +620,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "TE",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "SEC",
-      "team": "Missouri",
-      "player": "Jahlil Florence",
-      "number": "21",
-      "opponent": "Kentucky",
-      "game_date": "2026-11-21",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "CB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -658,7 +639,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -677,7 +658,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -696,7 +677,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -867,7 +848,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -886,7 +867,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -905,9 +886,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "EDG",
@@ -924,7 +905,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -943,7 +924,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -962,7 +943,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -981,7 +962,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1000,7 +981,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1019,7 +1000,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1038,7 +1019,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1057,7 +1038,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1076,7 +1057,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1773,16 +1754,16 @@
       "team": "Georgia",
       "opponent": "South Carolina",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:10:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T23:00:00Z"
     },
     {
       "conference": "SEC",
       "team": "Kentucky",
       "opponent": "Missouri",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:10:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T23:00:00Z"
     },
     {
       "conference": "SEC",
@@ -1797,8 +1778,8 @@
       "team": "Missouri",
       "opponent": "Kentucky",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:10:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T23:00:00Z"
     },
     {
       "conference": "SEC",
@@ -1813,8 +1794,8 @@
       "team": "South Carolina",
       "opponent": "Georgia",
       "game_date": "2026-11-21",
-      "label": "Update 2",
-      "released_at": "2026-11-21T01:10:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-21T23:00:00Z"
     },
     {
       "conference": "SEC",
