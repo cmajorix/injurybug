@@ -1,6 +1,366 @@
 {
   "conference": "B12",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Ansel Din-Mbuh",
+      "number": "92",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DT",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "G'Ivori Graham",
+      "number": "20",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Jaden Craig",
+      "number": "1",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Kari Ashley",
+      "number": "81",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Keylan Abrams",
+      "number": "23",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Lafayette Kaiuway",
+      "number": "12",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Brice Pollock",
+      "number": "14",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Bryce Butler",
+      "number": "92",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Cash Cleveland",
+      "number": "52",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Coy Eakin",
+      "number": "3",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Jalen Jones",
+      "number": "6",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Kenny Johnson",
+      "number": "2",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "LaDamion Guyton",
+      "number": "32",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "OLB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Marcus Ramon-Edwards",
+      "number": "22",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Micah Hudson",
+      "number": "1",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Miquel Dingle Jr.",
+      "number": "21",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Peyton Morgan",
+      "number": "3",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "player": "Quinten Joyner",
+      "number": "0",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-26",
+      "label": "Initial",
+      "released_at": "2026-11-24T03:00:00Z"
+    },
+    {
+      "conference": "B12",
+      "team": "Texas Tech",
+      "opponent": "TCU",
+      "game_date": "2026-11-26",
+      "label": "Initial",
+      "released_at": "2026-11-24T03:00:00Z"
+    }
+  ]
 }
