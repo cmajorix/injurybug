@@ -12,7 +12,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -31,7 +31,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -50,12 +50,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "TCU",
+      "player": "Joseph Albright",
+      "number": "24",
+      "opponent": "Texas Tech",
+      "game_date": "2026-11-26",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -69,7 +88,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -88,9 +107,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "LB",
@@ -107,7 +126,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -126,7 +145,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -145,7 +164,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -164,7 +183,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -183,7 +202,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -202,7 +221,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -221,7 +240,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -240,7 +259,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -259,9 +278,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 1",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "S",
@@ -278,7 +297,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -297,7 +316,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -316,7 +335,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -335,12 +354,278 @@
       "week": null,
       "updates": [
         {
-          "label": "Initial",
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Braden Pegan",
+      "number": "7",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Logan Castor",
+      "number": "65",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LS",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Marcus Wimberly",
+      "number": "24",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Mike Tauteoli",
+      "number": "94",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DT",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Solatoa Moea'i",
+      "number": "62",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "player": "Wayshawn Parker",
+      "number": "1",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Andrew Powdrell",
+      "number": "0",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Cam Ball",
+      "number": "10",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Darius Wiley",
+      "number": "91",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Emory Snyder",
+      "number": "23",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "N/S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Isaiah Patterson",
+      "number": "16",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Jaden Bray",
+      "number": "5",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Matt Sieg",
+      "number": "3",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "player": "Michael Hawkins Jr.",
+      "number": "3",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "QB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     }
@@ -351,16 +636,32 @@
       "team": "TCU",
       "opponent": "Texas Tech",
       "game_date": "2026-11-26",
-      "label": "Initial",
-      "released_at": "2026-11-24T03:00:00Z"
+      "label": "Update 1",
+      "released_at": "2026-11-25T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Texas Tech",
       "opponent": "TCU",
       "game_date": "2026-11-26",
+      "label": "Update 1",
+      "released_at": "2026-11-25T03:00:00Z"
+    },
+    {
+      "conference": "B12",
+      "team": "Utah",
+      "opponent": "West Virginia",
+      "game_date": "2026-11-27",
       "label": "Initial",
-      "released_at": "2026-11-24T03:00:00Z"
+      "released_at": "2026-11-25T03:00:00Z"
+    },
+    {
+      "conference": "B12",
+      "team": "West Virginia",
+      "opponent": "Utah",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T03:00:00Z"
     }
   ]
 }
