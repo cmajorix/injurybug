@@ -1,6 +1,895 @@
 {
   "conference": "SEC",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "player": "AJ Swann",
+      "number": "17",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "player": "Ayden Williams",
+      "number": "11",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "player": "Diesel Moye",
+      "number": "99",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "player": "Isaac Smith",
+      "number": "2",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "player": "Jalen Smith",
+      "number": "10",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "player": "Kamario Taylor",
+      "number": "1",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "player": "Kyle Johnson",
+      "number": "17",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "player": "Trevion Williams",
+      "number": "23",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Ant Davis Jr.",
+      "number": "26",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Brady Prieskorn",
+      "number": "86",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Caleb Cunningham",
+      "number": "3",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Caleb Odom",
+      "number": "4",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Carius Curne",
+      "number": "57",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Deuce Knight",
+      "number": "2",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Edwin Joseph",
+      "number": "14",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Gerald Lacy Jr.",
+      "number": "39",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Izaiah Hartrup",
+      "number": "12",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "JaMichael Garrett",
+      "number": "30",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Johntay Cook II",
+      "number": "0",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Kam Franklin",
+      "number": "5",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Keaton Thomas",
+      "number": "11",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Kervin Johnson Jr.",
+      "number": "27",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Kewan Lacy",
+      "number": "5",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "MJ Preston",
+      "number": "19",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Patrick Kutas",
+      "number": "75",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Sharif Denson",
+      "number": "7",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "player": "Shekai Mills-Knight",
+      "number": "33",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "player": "Andre Cojoe",
+      "number": "77",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "player": "Colin Simmons",
+      "number": "1",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "EDG",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "player": "Hero Kanu",
+      "number": "93",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "player": "Hollywood Smothers",
+      "number": "2",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "player": "Kobe Black",
+      "number": "6",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "player": "Nick Townsend",
+      "number": "81",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "player": "Richard Wesley",
+      "number": "99",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "EDG",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "player": "Trevor Goosby",
+      "number": "74",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Ashton Bethel-Roman",
+      "number": "8",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Blake Ivy",
+      "number": "52",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Kelshaun Johnson",
+      "number": "11",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Landon Rink",
+      "number": "99",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DT",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Marco Jones",
+      "number": "10",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Marcus Ratcliffe",
+      "number": "3",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "TK Norman",
+      "number": "18",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Terry Bussey",
+      "number": "6",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Trovon Baugh",
+      "number": "76",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "player": "Tylan Wilson",
+      "number": "15",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "SEC",
+      "team": "Mississippi St.",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T01:10:00Z"
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T01:10:00Z"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T01:10:00Z"
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T01:10:00Z"
+    }
+  ]
 }

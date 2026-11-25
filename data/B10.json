@@ -1,6 +1,838 @@
 {
   "conference": "B10",
   "source_url": "https://app.hdintelligence.com/api/get-publish-public",
-  "records": [],
-  "team_reports": []
+  "records": [
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "player": "Cannon Leonard",
+      "number": "75",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "player": "Jacob Wallace",
+      "number": "11",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "player": "KJ Parker",
+      "number": "1",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "player": "Kamari Moulton",
+      "number": "28",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "player": "Kyler Gerardy",
+      "number": "19",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "player": "Tony Diaz",
+      "number": "14",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "player": "Tyler Brown",
+      "number": "2",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "player": "Xavier Styles",
+      "number": "18",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Ashton Beers",
+      "number": "78",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Brett Carroll",
+      "number": "56",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Donielle Hayes",
+      "number": "18",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Garrison Monroe",
+      "number": "9",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Hayden Moore",
+      "number": "84",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Jaylin Hicks",
+      "number": "55",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "John Nestor",
+      "number": "17",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Mason Carrier",
+      "number": "46",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Mekhai Smith",
+      "number": "22",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Pierce Walsh",
+      "number": "19",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Riley Sunram",
+      "number": "93",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Ryan Estrada",
+      "number": "20",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "player": "Theorin Randle",
+      "number": "99",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Andrew Marshall",
+      "number": "7",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Anthony Jones Jr.",
+      "number": "5",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Gabe Moore",
+      "number": "95",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Gunnar Gottula",
+      "number": "77",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Jacob Bower",
+      "number": "54",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Jahsear Whittington",
+      "number": "1",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Jase Reynolds",
+      "number": "52",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Kahmir Prescott",
+      "number": "19",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Larry Miles",
+      "number": "17",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Larry Tarver Jr.",
+      "number": "11",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Owen Chambliss",
+      "number": "0",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "LB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Paul Mubenga",
+      "number": "65",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "player": "Vincent Genatone",
+      "number": "30",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "RB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Barrett Nelson",
+      "number": "70",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Cai Bates",
+      "number": "3",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Carson Van Dinter",
+      "number": "11",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Deuce Adams",
+      "number": "8",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": "QB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Emmett Bork",
+      "number": "82",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "TE",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Javan Robinson",
+      "number": "2",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": "CB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Kevin Heywood",
+      "number": "55",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "OL",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "player": "Matthew Jung",
+      "number": "29",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "week": null,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "S",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    }
+  ],
+  "team_reports": [
+    {
+      "conference": "B10",
+      "team": "Iowa",
+      "opponent": "Nebraska",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T01:00:00Z"
+    },
+    {
+      "conference": "B10",
+      "team": "Minnesota",
+      "opponent": "Wisconsin",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T01:00:00Z"
+    },
+    {
+      "conference": "B10",
+      "team": "Nebraska",
+      "opponent": "Iowa",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T01:00:00Z"
+    },
+    {
+      "conference": "B10",
+      "team": "Wisconsin",
+      "opponent": "Minnesota",
+      "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": "2026-11-25T01:00:00Z"
+    }
+  ]
 }
