@@ -2,7 +2,15 @@ from typing import Any
 
 import requests
 
-from .base import BaseScraper, InjuryRecord, ParseResult, StatusUpdate, TeamReport
+from .base import (
+    STATUS_RANKS,
+    BaseScraper,
+    InjuryRecord,
+    ParseResult,
+    StatusUpdate,
+    TeamReport,
+    normalize_status,
+)
 
 FEED_URL = "https://sbcautostorage.blob.core.windows.net/availability-reports/{feed}/prod/report.json"
 
@@ -27,6 +35,11 @@ def clean_name(name: str) -> str:
     if sep and "," not in first and first.strip() not in NAME_SUFFIXES:
         name = f"{first.strip()} {last.strip()}"
     return name
+
+
+def _severity(update: StatusUpdate) -> int:
+    """Rank of a not-yet-normalized update; unknown statuses rank lowest (validation flags them)."""
+    return STATUS_RANKS.get(normalize_status(update.status) or "", -1)
 
 
 class SBCBlobScraper(BaseScraper):
@@ -59,11 +72,26 @@ class SBCBlobScraper(BaseScraper):
                     label=label,
                     released_at=f"{released[:19]}Z" if released else None,
                 ))
+                seen: dict[str, InjuryRecord] = {}
                 for player in team["players"]:
-                    result.records.append(InjuryRecord(
+                    name = clean_name(player["name"])
+                    if (first := seen.get(name)) is not None:
+                        # Schools sometimes enter a player twice (e.g. ULM 2026-11-28, second copy with a
+                        # trailing space and a different position). Keep the first; on conflicting
+                        # statuses keep the more severe one.
+                        result.warnings.append(
+                            f"{team['name']} {game['dateISO']}: duplicate entry for {name!r} "
+                            f"({first.position}/{first.updates[0].status} vs "
+                            f"{player['position'].strip()}/{player['status']}); kept the first"
+                        )
+                        dupe_update = StatusUpdate(label=label, status=player["status"])
+                        if _severity(dupe_update) > _severity(first.updates[0]):
+                            first.updates[0] = dupe_update
+                        continue
+                    seen[name] = record = InjuryRecord(
                         conference=self.conference,
                         team=team["name"],
-                        player=clean_name(player["name"]),
+                        player=name,
                         number=None,
                         position=player["position"].strip() or None,
                         opponent=game[other]["name"],
@@ -71,5 +99,6 @@ class SBCBlobScraper(BaseScraper):
                         week=None,
                         updates=[StatusUpdate(label=label, status=player["status"])],
                         source_url=self.source_url,
-                    ))
+                    )
+                    result.records.append(record)
         return result
