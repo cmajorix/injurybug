@@ -34350,6 +34350,11 @@
           "label": "Initial",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 1",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": null,
@@ -34367,6 +34372,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34388,6 +34398,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34405,6 +34420,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34426,6 +34446,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34443,6 +34468,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34464,6 +34494,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34481,6 +34516,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34502,6 +34542,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34519,6 +34564,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34540,6 +34590,11 @@
           "label": "Initial",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34557,6 +34612,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -34578,6 +34638,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34597,6 +34662,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": null,
@@ -34614,6 +34684,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34635,6 +34710,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34652,6 +34732,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34673,6 +34758,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34692,6 +34782,11 @@
           "label": "Initial",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34711,6 +34806,11 @@
           "label": "Initial",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34728,6 +34828,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34749,6 +34854,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34766,6 +34876,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34787,6 +34902,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34806,6 +34926,11 @@
           "label": "Initial",
           "status": "Doubtful",
           "status_raw": "Doubtful"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34825,6 +34950,11 @@
           "label": "Initial",
           "status": "Probable",
           "status_raw": "Probable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Available",
+          "status_raw": "Available"
         }
       ],
       "position": null,
@@ -34842,6 +34972,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -34863,6 +34998,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -34880,6 +35020,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -34901,6 +35046,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34918,6 +35068,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34939,6 +35094,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -34956,6 +35116,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -34977,6 +35142,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -34994,6 +35164,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35015,6 +35190,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -35032,6 +35212,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35053,6 +35238,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -35070,6 +35260,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35091,6 +35286,11 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": null,
@@ -35108,6 +35308,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35129,6 +35334,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -35146,6 +35356,11 @@
       "updates": [
         {
           "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -35167,6 +35382,11 @@
           "label": "Initial",
           "status": "Out",
           "status_raw": "Out"
+        },
+        {
+          "label": "Update 1",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -35186,6 +35406,1360 @@
           "label": "Initial",
           "status": "Questionable",
           "status_raw": "Questionable"
+        },
+        {
+          "label": "Update 1",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Caleb Woodson",
+      "number": "7",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Casey Poe",
+      "number": "50",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Cayden Jones",
+      "number": "23",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Desmond Umeozulu",
+      "number": "9",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Fatutoa Henry",
+      "number": "14",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Jeremiah Beaman",
+      "number": "92",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Jireh Edwards",
+      "number": "10",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Josh Ford",
+      "number": "40",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Luke Metz",
+      "number": "4",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Mhari Johnson",
+      "number": "26",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "player": "Nick Sherman",
+      "number": "29",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Arkansas",
+      "player": "Braydon Lee",
+      "number": "3",
+      "opponent": "LSU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Arkansas",
+      "player": "Brylan Green",
+      "number": "34",
+      "opponent": "LSU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Arkansas",
+      "player": "Gavin Garretson",
+      "number": "89",
+      "opponent": "LSU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Arkansas",
+      "player": "Kavion Broussard",
+      "number": "75",
+      "opponent": "LSU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Arkansas",
+      "player": "Maddox Lassiter",
+      "number": "47",
+      "opponent": "LSU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Arkansas",
+      "player": "Phoenix Jackson",
+      "number": "8",
+      "opponent": "LSU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Auburn",
+      "player": "Bryce Deas",
+      "number": "16",
+      "opponent": "Alabama",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Auburn",
+      "player": "Byrum Brown",
+      "number": "17",
+      "opponent": "Alabama",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Auburn",
+      "player": "De'marcus Riddick",
+      "number": "6",
+      "opponent": "Alabama",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Auburn",
+      "player": "Gavin Jenkins",
+      "number": "21",
+      "opponent": "Alabama",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Aidan Anding",
+      "number": "23",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Charles Ross II",
+      "number": "26",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Dashawn Spears",
+      "number": "10",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Jackson Harris",
+      "number": "4",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Jayce Brown",
+      "number": "1",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Jhase Thomas",
+      "number": "28",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Malachi Thomas",
+      "number": "12",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Phillip Wright III",
+      "number": "15",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Richard Anderson",
+      "number": "88",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Whit Weeks",
+      "number": "7",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "player": "Winston Watkins Jr.",
+      "number": "6",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Missouri",
+      "player": "Brett Le Blanc",
+      "number": "49",
+      "opponent": "Oklahoma",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Missouri",
+      "player": "Cameron Keys",
+      "number": "20",
+      "opponent": "Oklahoma",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Missouri",
+      "player": "Gavin Hoffman",
+      "number": "88",
+      "opponent": "Oklahoma",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Missouri",
+      "player": "Josh Atkins",
+      "number": "54",
+      "opponent": "Oklahoma",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Missouri",
+      "player": "Langden Kitchen",
+      "number": "11",
+      "opponent": "Oklahoma",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Missouri",
+      "player": "Malae Fonoti",
+      "number": "21",
+      "opponent": "Oklahoma",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "E'Marion Harris",
+      "number": "76",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Fred Hinton",
+      "number": "72",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Gunnar Allen",
+      "number": "57",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Ivan Carreon",
+      "number": "82",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Kenny Ozowalu",
+      "number": "94",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Parker Livingstone",
+      "number": "3",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Reggie Powers III",
+      "number": "3",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Ryan Fodje",
+      "number": "70",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Taylor Heim",
+      "number": "7",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Tory Blaylock",
+      "number": "6",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Trell Harris",
+      "number": "11",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "player": "Trynae Washington",
+      "number": "22",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Arion Carter",
+      "number": "7",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Daune Morris",
+      "number": "17",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "DeSean Bishop",
+      "number": "18",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Dylan Lewis",
+      "number": "24",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Edrees Farooq",
+      "number": "15",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Ethan Davis",
+      "number": "0",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Jaedon Harmon",
+      "number": "12",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Joakim Dodson",
+      "number": "9",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Mike Matthews",
+      "number": "4",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Nic Moore",
+      "number": "58",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Tyree Weathersby",
+      "number": "18",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "player": "Wendell Moe Jr.",
+      "number": "75",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Aaron Bryant",
+      "number": "55",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Blaze Berlowitz",
+      "number": "1",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Clinton Azubuike",
+      "number": "51",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Cobey Sellers",
+      "number": "0",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Daniel Vollmer Jr.",
+      "number": "34",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Edwin Kolenge",
+      "number": "17",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Evan Hampton",
+      "number": "23",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Gunner Givens",
+      "number": "50",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "player": "Josiah Broxton",
+      "number": "18",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": null,
@@ -39428,10 +41002,26 @@
     },
     {
       "conference": "SEC",
+      "team": "Mississippi St.",
+      "opponent": "Ole Miss",
+      "game_date": "2026-11-27",
+      "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
       "team": "Ole Miss",
       "opponent": "Mississippi St.",
       "game_date": "2026-11-27",
       "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Ole Miss",
+      "opponent": "Mississippi St.",
+      "game_date": "2026-11-27",
+      "label": "Update 1",
       "released_at": null
     },
     {
@@ -39444,9 +41034,89 @@
     },
     {
       "conference": "SEC",
+      "team": "Texas",
+      "opponent": "Texas A&M",
+      "game_date": "2026-11-27",
+      "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
       "team": "Texas A&M",
       "opponent": "Texas",
       "game_date": "2026-11-27",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Texas A&M",
+      "opponent": "Texas",
+      "game_date": "2026-11-27",
+      "label": "Update 1",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Alabama",
+      "opponent": "Auburn",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Arkansas",
+      "opponent": "LSU",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Auburn",
+      "opponent": "Alabama",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "LSU",
+      "opponent": "Arkansas",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Missouri",
+      "opponent": "Oklahoma",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Oklahoma",
+      "opponent": "Missouri",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Tennessee",
+      "opponent": "Vanderbilt",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "SEC",
+      "team": "Vanderbilt",
+      "opponent": "Tennessee",
+      "game_date": "2026-11-28",
       "label": "Initial",
       "released_at": null
     }

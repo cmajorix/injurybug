@@ -61764,6 +61764,3027 @@
       "position": null,
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Andy Quinn",
+      "number": "25",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Bodie Kahoun",
+      "number": "36",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Evan Dickens",
+      "number": "23",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Isaiah Farris",
+      "number": "16",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Justin Medlock",
+      "number": "20",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Kaelan Chudzinski",
+      "number": "85",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Micah Amedee",
+      "number": "59",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Onye Nwosisi",
+      "number": "8",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Pape Abdoulaye Sy",
+      "number": "75",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Reed Swanson",
+      "number": "80",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Sedric Addison",
+      "number": "26",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "player": "Trevon Humphrey",
+      "number": "53",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "AJ Tuitele",
+      "number": "9",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Aiden Manutai",
+      "number": "14",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Ashten Emory",
+      "number": "20",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Ashun Shepphard",
+      "number": "99",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Cam Sidney",
+      "number": "20",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Carter Vargas",
+      "number": "1",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Daniel Harris",
+      "number": "7",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Dorian Thomas",
+      "number": "0",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Ian Strong",
+      "number": "9",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Isaiah Crosby",
+      "number": "23",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Jayden Williams",
+      "number": "51",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Kahlee Tafai",
+      "number": "51",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Khamani Hudson",
+      "number": "25",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Nate Burrell",
+      "number": "98",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Rico Walker",
+      "number": "8",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Taimane Purcell",
+      "number": "22",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "player": "Trevor Rogers",
+      "number": "19",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Brett Elliott",
+      "number": "81",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Cole Allen",
+      "number": "62",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Cosme Salas",
+      "number": "39",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Elliott Schaper",
+      "number": "31",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Jamien Little",
+      "number": "1",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kai Jacobowitz",
+      "number": "65",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kavon Simmons",
+      "number": "7",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kobe Smith",
+      "number": "18",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Kyon Loud",
+      "number": "1",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Luke Mergott",
+      "number": "34",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Patrick Smith-Young",
+      "number": "2",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Qeanu Johnson",
+      "number": "21",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Reagan McCranie",
+      "number": "74",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Roman Fina",
+      "number": "79",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "player": "Terry Walker III",
+      "number": "13",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "CharMar Brown",
+      "number": "6",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Chase Smith",
+      "number": "9",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Elija Lofton",
+      "number": "9",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Ja'Boree Antoine",
+      "number": "16",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Jackson Cantwell",
+      "number": "79",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Joshua Moore",
+      "number": "3",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Luka Gilbert",
+      "number": "88",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Malachi Toney",
+      "number": "1",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Max Buchanan",
+      "number": "66",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Romanas \"OJ\" Frederique Jr.",
+      "number": "29",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "player": "Zechariah Poyser",
+      "number": "7",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "AJ Prim",
+      "number": "99",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "AJ Richardson",
+      "number": "15",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Chase Bond",
+      "number": "92",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Ian Flynt",
+      "number": "87",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Isaiah Crowell",
+      "number": "8",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Jayden \"Duke\" Scott",
+      "number": "1",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Keenan Jackson",
+      "number": "8",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Rico Jackson",
+      "number": "64",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Ronnie Royal, III",
+      "number": "2",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Spike Sowells Jr.",
+      "number": "72",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Tristan Teasdell",
+      "number": "3",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Vander Ploog",
+      "number": "4",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "player": "Yousef Mugharbil",
+      "number": "71",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Ade Willie",
+      "number": "3",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Carson Sneed",
+      "number": "87",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Dujuan Davis",
+      "number": "67",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Greg Smith",
+      "number": "1",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Jacob Horvath",
+      "number": "93",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Jelani Thurman",
+      "number": "45",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Jonathan Agumadu",
+      "number": "8",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Jordan Hall",
+      "number": "66",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Joseph Mupoyi",
+      "number": "25",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Keeyun Chapman",
+      "number": "82",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Melkart Abou Jaoude",
+      "number": "9",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Tarvorise Brown",
+      "number": "14",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Tre Miller",
+      "number": "6",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Viliami Moala",
+      "number": "56",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "player": "Vodney Cleveland",
+      "number": "88",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Allen Bryant",
+      "number": "26",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Cameron Lindsey",
+      "number": "24",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Damon Ferguson Jr.",
+      "number": "26",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Elijah Lagg",
+      "number": "17",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Isaac Patterson",
+      "number": "41",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Jordan Fields",
+      "number": "49",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Mason Heintschel",
+      "number": "6",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Max Hunt",
+      "number": "18",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Raion Strader",
+      "number": "6",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Rodney Dunbar",
+      "number": "81",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Sean FitzSimmons",
+      "number": "55",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Shadarian Harrison",
+      "number": "21",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "player": "Tyreek Robinson",
+      "number": "24",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Addison Nichols",
+      "number": "63",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Brandon Miyazono",
+      "number": "29",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Carterrious Brown",
+      "number": "11",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Evan Goodwin",
+      "number": "60",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "I'Zayah Young",
+      "number": "25",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Ira Singleton IV",
+      "number": "9",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Jaelyn Davis-Robinson",
+      "number": "13",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Jimmy Wyrick",
+      "number": "21",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Link Rhodes",
+      "number": "24",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Trey Wilson",
+      "number": "14",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "player": "Tyren Polley Jr.",
+      "number": "10",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Aidan Kilstrom",
+      "number": "52",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Brandon Nicholson",
+      "number": "9",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Brendan Delaney",
+      "number": "58",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Breylan Thompson",
+      "number": "27",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Chris Garland",
+      "number": "26",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Daniel Ogiozee",
+      "number": "94",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Daylen Sharper",
+      "number": "22",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Jay Miller",
+      "number": "65",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Langdon Horace",
+      "number": "18",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "London Bironas",
+      "number": "19",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Matt Rose",
+      "number": "35",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Nathan Mejia",
+      "number": "53",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Peyton Warford",
+      "number": "93",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Preston Jernegan",
+      "number": "54",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Reiman Zebert",
+      "number": "83",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Sam Neely III",
+      "number": "28",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Simione Pale",
+      "number": "55",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "player": "Zaiden McDonald",
+      "number": "22",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Alex Dunn",
+      "number": "27",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Bull Richardson",
+      "number": "96",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Chase Morrison",
+      "number": "46",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Corey Costner",
+      "number": "4",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Devon Baxter",
+      "number": "99",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Drake Metcalf",
+      "number": "60",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Grant Ellinger",
+      "number": "65",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Isaiah Reese",
+      "number": "42",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Jason Hammond",
+      "number": "91",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Landon Danley",
+      "number": "32",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Maddox Marcellus",
+      "number": "11",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Matthew Fobbs-White",
+      "number": "16",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Noah Hartsoe",
+      "number": "58",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Omillio Agard",
+      "number": "20",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "player": "Rico Flores Jr.",
+      "number": "11",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Emmett Laws",
+      "number": "99",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "George Ballance",
+      "number": "25",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Justin Terry",
+      "number": "72",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Lucas Austin",
+      "number": "57",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Luke Stuewe",
+      "number": "83",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Marcellous Hawkins",
+      "number": "27",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Marlen Bright",
+      "number": "74",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Montavious Cunningham",
+      "number": "66",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Nathaniel Wright",
+      "number": "50",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "player": "Thomas Williams",
+      "number": "23",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "Brandon Smiley",
+      "number": "95",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "Dalton DeBoer",
+      "number": "69",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "Devin Cook",
+      "number": "15",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "Dylan Durbin",
+      "number": "77",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "John Ohnegian",
+      "number": "74",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Questionable",
+          "status_raw": "Questionable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "Landon Morris",
+      "number": "81",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "Langston Hardy",
+      "number": "11",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Probable",
+          "status_raw": "Probable"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "Tolu Olajide",
+      "number": "55",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "player": "Ty Clark III",
+      "number": "4",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "week": 13,
+      "updates": [
+        {
+          "label": "Initial",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": null,
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-archive-public"
     }
   ],
   "team_reports": [
@@ -66117,6 +69138,102 @@
       "opponent": "Georgia Tech",
       "game_date": "2026-11-21",
       "label": "Game Day",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Boston College",
+      "opponent": "Miami (FL)",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "California",
+      "opponent": "Pittsburgh",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Duke",
+      "opponent": "Wake Forest",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Miami (FL)",
+      "opponent": "Boston College",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "NC State",
+      "opponent": "North Carolina",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "North Carolina",
+      "opponent": "NC State",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Pittsburgh",
+      "opponent": "California",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "SMU",
+      "opponent": "Stanford",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Stanford",
+      "opponent": "SMU",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia",
+      "opponent": "Virginia Tech",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Virginia Tech",
+      "opponent": "Virginia",
+      "game_date": "2026-11-28",
+      "label": "Initial",
+      "released_at": null
+    },
+    {
+      "conference": "ACC",
+      "team": "Wake Forest",
+      "opponent": "Duke",
+      "game_date": "2026-11-28",
+      "label": "Initial",
       "released_at": null
     }
   ]
