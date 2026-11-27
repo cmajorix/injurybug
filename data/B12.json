@@ -5,25 +5,6 @@
     {
       "conference": "B12",
       "team": "TCU",
-      "player": "Ansel Din-Mbuh",
-      "number": "92",
-      "opponent": "Texas Tech",
-      "game_date": "2026-11-26",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DT",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "TCU",
       "player": "G'Ivori Graham",
       "number": "20",
       "opponent": "Texas Tech",
@@ -31,7 +12,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -50,7 +31,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -69,7 +50,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -88,9 +69,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "TE",
@@ -107,7 +88,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -118,74 +99,17 @@
     },
     {
       "conference": "B12",
-      "team": "TCU",
-      "player": "Lafayette Kaiuway",
-      "number": "12",
-      "opponent": "Texas Tech",
-      "game_date": "2026-11-26",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "TE",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
       "team": "Texas Tech",
-      "player": "Brice Pollock",
-      "number": "14",
+      "player": "Connor Carty",
+      "number": "61",
       "opponent": "TCU",
       "game_date": "2026-11-26",
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "CB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Texas Tech",
-      "player": "Bryce Butler",
-      "number": "92",
-      "opponent": "TCU",
-      "game_date": "2026-11-26",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Texas Tech",
-      "player": "Cash Cleveland",
-      "number": "52",
-      "opponent": "TCU",
-      "game_date": "2026-11-26",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "OL",
@@ -202,28 +126,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
-        }
-      ],
-      "position": "WR",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Texas Tech",
-      "player": "Kenny Johnson",
-      "number": "2",
-      "opponent": "TCU",
-      "game_date": "2026-11-26",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
         }
       ],
       "position": "WR",
@@ -240,7 +145,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -259,31 +164,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "S",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Texas Tech",
-      "player": "Micah Hudson",
-      "number": "1",
-      "opponent": "TCU",
-      "game_date": "2026-11-26",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -297,7 +183,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -316,7 +202,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1909,16 +1795,16 @@
       "team": "TCU",
       "opponent": "Texas Tech",
       "game_date": "2026-11-26",
-      "label": "Update 2",
-      "released_at": "2026-11-26T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-26T23:30:00Z"
     },
     {
       "conference": "B12",
       "team": "Texas Tech",
       "opponent": "TCU",
       "game_date": "2026-11-26",
-      "label": "Update 2",
-      "released_at": "2026-11-26T03:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-26T23:30:00Z"
     },
     {
       "conference": "B12",
