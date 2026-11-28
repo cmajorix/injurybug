@@ -347,25 +347,6 @@
     {
       "conference": "B12",
       "team": "Arizona",
-      "player": "Dwight Bootle II",
-      "number": "12",
-      "opponent": "Arizona St.",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "CB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Arizona",
       "player": "Ismail Mahdi",
       "number": "21",
       "opponent": "Arizona St.",
@@ -373,7 +354,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -392,7 +373,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -411,31 +392,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "LB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Arizona",
-      "player": "Quincy Craig",
-      "number": "24",
-      "opponent": "Arizona St.",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "RB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -449,7 +411,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -468,9 +430,28 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B12",
+      "team": "Arizona St.",
+      "player": "Reed Harris",
+      "number": "3",
+      "opponent": "Arizona",
+      "game_date": "2026-11-28",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": "WR",
@@ -487,7 +468,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -506,7 +487,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -525,50 +506,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "DB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "BYU",
-      "player": "Andrew Gentry",
-      "number": "75",
-      "opponent": "Cincinnati",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "BYU",
-      "player": "Evan Johnson",
-      "number": "0",
-      "opponent": "Cincinnati",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "CB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -582,7 +525,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -601,7 +544,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -620,7 +563,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -639,7 +582,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -658,7 +601,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -677,7 +620,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -696,7 +639,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -715,7 +658,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -734,7 +677,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -753,7 +696,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -772,7 +715,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -791,7 +734,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -810,7 +753,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -829,7 +772,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -848,7 +791,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -867,7 +810,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -886,7 +829,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -905,7 +848,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -924,7 +867,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -943,7 +886,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -962,7 +905,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -981,9 +924,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "LB",
@@ -1000,28 +943,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
-        }
-      ],
-      "position": "DB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Colorado",
-      "player": "Randon Fontenette",
-      "number": "7",
-      "opponent": "UCF",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
         }
       ],
       "position": "DB",
@@ -1038,7 +962,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1057,9 +981,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "OL",
@@ -1076,9 +1000,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "QB",
@@ -1095,7 +1019,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1114,31 +1038,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "WR",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Houston",
-      "player": "JD Rhym",
-      "number": "3",
-      "opponent": "Baylor",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "DB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -1152,7 +1057,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,7 +1076,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1190,7 +1095,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1209,7 +1114,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1228,7 +1133,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1247,7 +1152,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1266,28 +1171,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
-        }
-      ],
-      "position": "TE",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B12",
-      "team": "Kansas",
-      "player": "Jailen Butler",
-      "number": "9",
-      "opponent": "Oklahoma St.",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
         }
       ],
       "position": "TE",
@@ -1304,7 +1190,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1323,7 +1209,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1342,9 +1228,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "DT",
@@ -1361,7 +1247,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1380,9 +1266,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "CB",
@@ -1399,9 +1285,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "QB",
@@ -1418,7 +1304,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1437,9 +1323,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "DT",
@@ -1456,7 +1342,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1475,9 +1361,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "CB",
@@ -1494,7 +1380,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1513,7 +1399,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1532,7 +1418,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1551,7 +1437,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -1570,7 +1456,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1589,7 +1475,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1608,7 +1494,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1627,7 +1513,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1646,7 +1532,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1665,7 +1551,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1684,7 +1570,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1732,96 +1618,96 @@
       "team": "Arizona",
       "opponent": "Arizona St.",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Arizona St.",
       "opponent": "Arizona",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "BYU",
       "opponent": "Cincinnati",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Baylor",
       "opponent": "Houston",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Cincinnati",
       "opponent": "BYU",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Colorado",
       "opponent": "UCF",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Houston",
       "opponent": "Baylor",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Iowa St.",
       "opponent": "Kansas St.",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Kansas",
       "opponent": "Oklahoma St.",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Kansas St.",
       "opponent": "Iowa St.",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "Oklahoma St.",
       "opponent": "Kansas",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     },
     {
       "conference": "B12",
       "team": "UCF",
       "opponent": "Colorado",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:00:00Z"
     }
   ]
 }

@@ -12,7 +12,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -31,7 +31,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -50,7 +50,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -69,7 +69,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -81,38 +81,19 @@
     {
       "conference": "Pac12",
       "team": "Colorado State",
-      "player": "Ace Brown",
+      "player": "CJ Blocker",
       "number": null,
       "opponent": "Boise State",
       "game_date": "2026-11-28",
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Out",
-          "status_raw": "Out"
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
-      "position": "ILB",
-      "injury": null,
-      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
-    },
-    {
-      "conference": "Pac12",
-      "team": "Colorado State",
-      "player": "Ant Turner",
-      "number": null,
-      "opponent": "Boise State",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "ILB",
+      "position": "DB",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -126,9 +107,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Out",
-          "status_raw": "Out"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "DB",
@@ -145,7 +126,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -164,7 +145,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -183,7 +164,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -202,7 +183,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -221,7 +202,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -240,7 +221,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -259,7 +240,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -278,7 +259,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -297,7 +278,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -316,7 +297,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -335,7 +316,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -354,7 +335,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -373,31 +354,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "DL",
-      "injury": null,
-      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
-    },
-    {
-      "conference": "Pac12",
-      "team": "Colorado State",
-      "player": "Tommy Maher",
-      "number": null,
-      "opponent": "Boise State",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "WR",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -411,7 +373,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -430,7 +392,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -449,12 +411,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Brendan Huddleston",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-28",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DL",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -468,12 +449,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "OL",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Jahlil McClain",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-28",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "WR",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -487,7 +487,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -506,7 +506,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -525,12 +525,31 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "DB",
+      "injury": null,
+      "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
+    },
+    {
+      "conference": "Pac12",
+      "team": "Fresno State",
+      "player": "Niko Baumgartner",
+      "number": null,
+      "opponent": "Oregon State",
+      "game_date": "2026-11-28",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "ILB",
       "injury": null,
       "source_url": "https://sbcautostorage.blob.core.windows.net/availability-reports/pac12-football/prod/report.json"
     },
@@ -544,7 +563,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -563,7 +582,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -582,7 +601,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -601,7 +620,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -620,7 +639,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -639,7 +658,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -658,7 +677,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -677,7 +696,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -696,7 +715,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -715,7 +734,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -734,7 +753,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -753,7 +772,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -772,7 +791,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -791,7 +810,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -810,7 +829,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -829,7 +848,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -848,7 +867,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -867,7 +886,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -886,7 +905,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -905,7 +924,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -924,7 +943,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -943,7 +962,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -962,7 +981,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -981,7 +1000,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1000,7 +1019,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1019,7 +1038,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1038,7 +1057,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1057,7 +1076,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1076,7 +1095,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1095,7 +1114,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1114,7 +1133,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1133,7 +1152,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1152,7 +1171,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,7 +1190,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1190,7 +1209,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1209,7 +1228,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1228,7 +1247,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1247,7 +1266,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1266,7 +1285,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1285,7 +1304,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1304,7 +1323,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1323,7 +1342,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1342,7 +1361,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1361,7 +1380,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1380,7 +1399,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1399,7 +1418,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1418,7 +1437,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1437,7 +1456,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1456,7 +1475,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1475,7 +1494,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1494,7 +1513,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1513,7 +1532,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1532,7 +1551,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1551,7 +1570,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1570,7 +1589,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1589,7 +1608,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1608,7 +1627,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1627,7 +1646,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1646,7 +1665,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1665,7 +1684,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out for Season"
         }
@@ -1681,64 +1700,64 @@
       "team": "Boise State",
       "opponent": "Colorado State",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:09:20Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:09:15Z"
     },
     {
       "conference": "Pac12",
       "team": "Colorado State",
       "opponent": "Boise State",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:09:20Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:09:15Z"
     },
     {
       "conference": "Pac12",
       "team": "Fresno State",
       "opponent": "Oregon State",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:10:38Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:10:14Z"
     },
     {
       "conference": "Pac12",
       "team": "Oregon State",
       "opponent": "Fresno State",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:10:38Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:10:14Z"
     },
     {
       "conference": "Pac12",
       "team": "San Diego State",
       "opponent": "Washington State",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:11:34Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:11:07Z"
     },
     {
       "conference": "Pac12",
       "team": "Texas State",
       "opponent": "Utah State",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:13:24Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:11:47Z"
     },
     {
       "conference": "Pac12",
       "team": "Utah State",
       "opponent": "Texas State",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:13:24Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:11:47Z"
     },
     {
       "conference": "Pac12",
       "team": "Washington State",
       "opponent": "San Diego State",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T03:11:34Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T03:11:07Z"
     }
   ]
 }
