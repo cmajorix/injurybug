@@ -107,7 +107,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -126,7 +126,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -145,7 +145,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -164,7 +164,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -183,7 +183,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -202,7 +202,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -221,31 +221,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "DB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Minnesota",
-      "player": "Mason Carrier",
-      "number": "46",
-      "opponent": "Wisconsin",
-      "game_date": "2026-11-27",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "LB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -259,31 +240,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "DB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Minnesota",
-      "player": "Pierce Walsh",
-      "number": "19",
-      "opponent": "Wisconsin",
-      "game_date": "2026-11-27",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "TE",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -297,7 +259,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -316,7 +278,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -335,7 +297,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -575,25 +537,6 @@
     {
       "conference": "B10",
       "team": "Wisconsin",
-      "player": "Barrett Nelson",
-      "number": "70",
-      "opponent": "Minnesota",
-      "game_date": "2026-11-27",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Wisconsin",
       "player": "Cai Bates",
       "number": "3",
       "opponent": "Minnesota",
@@ -601,31 +544,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "CB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Wisconsin",
-      "player": "Carson Van Dinter",
-      "number": "11",
-      "opponent": "Minnesota",
-      "game_date": "2026-11-27",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 2",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "S",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -639,9 +563,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Game Day",
+          "status": "Game Time Decision",
+          "status_raw": "Game Time Decision"
         }
       ],
       "position": "QB",
@@ -658,7 +582,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -677,7 +601,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -696,7 +620,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -715,7 +639,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 2",
+          "label": "Game Day",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -734,7 +658,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -753,7 +677,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -772,7 +696,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -791,7 +715,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -810,7 +734,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -829,7 +753,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -848,7 +772,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -867,7 +791,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -886,7 +810,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -905,7 +829,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -924,9 +848,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "QB",
@@ -943,7 +867,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -962,9 +886,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "LB",
@@ -981,7 +905,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1000,7 +924,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1019,7 +943,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1038,7 +962,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1057,7 +981,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1076,7 +1000,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1095,7 +1019,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1114,7 +1038,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1133,7 +1057,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1152,7 +1076,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1171,7 +1095,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1190,7 +1114,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1209,9 +1133,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Update 2",
+          "status": "Questionable",
+          "status_raw": "Questionable"
         }
       ],
       "position": "QB",
@@ -1228,7 +1152,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -1247,7 +1171,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1266,7 +1190,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1285,7 +1209,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1304,7 +1228,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1323,7 +1247,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1342,7 +1266,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1361,7 +1285,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1380,7 +1304,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1399,9 +1323,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "LB",
@@ -1418,7 +1342,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -1437,7 +1361,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1456,7 +1380,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1475,7 +1399,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1494,7 +1418,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1513,7 +1437,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1532,7 +1456,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1551,7 +1475,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1570,7 +1494,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1589,7 +1513,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1608,7 +1532,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1627,7 +1551,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1646,9 +1570,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "WR",
@@ -1665,7 +1589,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1684,7 +1608,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1703,7 +1627,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1722,7 +1646,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1741,9 +1665,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "LB",
@@ -1760,7 +1684,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1779,7 +1703,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1798,7 +1722,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1817,7 +1741,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1836,7 +1760,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1855,7 +1779,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -1874,7 +1798,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1893,7 +1817,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1912,7 +1836,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1931,7 +1855,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -1950,7 +1874,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1969,7 +1893,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -1988,7 +1912,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2007,7 +1931,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2026,7 +1950,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2045,7 +1969,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2064,7 +1988,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2083,7 +2007,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2102,7 +2026,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2121,7 +2045,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2140,7 +2064,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2159,7 +2083,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2178,7 +2102,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2197,7 +2121,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2216,7 +2140,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -2235,7 +2159,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2254,7 +2178,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2273,7 +2197,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2292,9 +2216,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "DB",
@@ -2311,7 +2235,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2330,7 +2254,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2349,7 +2273,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2368,7 +2292,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2387,7 +2311,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2406,7 +2330,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2425,7 +2349,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2444,7 +2368,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2463,7 +2387,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2482,7 +2406,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2501,9 +2425,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "OL",
@@ -2520,9 +2444,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "S",
@@ -2539,7 +2463,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2558,7 +2482,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2577,7 +2501,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2596,7 +2520,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2615,9 +2539,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Doubtful",
+          "status_raw": "Doubtful"
         }
       ],
       "position": "RB",
@@ -2634,9 +2558,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "RB",
@@ -2653,7 +2577,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2672,7 +2596,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2691,7 +2615,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2710,7 +2634,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2729,7 +2653,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2748,9 +2672,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "WR",
@@ -2767,7 +2691,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2786,7 +2710,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2805,7 +2729,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2824,7 +2748,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2843,31 +2767,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
       ],
       "position": "OL",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "Penn St.",
-      "player": "Jahmir Joseph",
-      "number": "0",
-      "opponent": "Maryland",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "CB",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -2881,7 +2786,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2900,7 +2805,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -2919,7 +2824,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2938,7 +2843,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -2957,7 +2862,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2976,7 +2881,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -2995,9 +2900,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "CB",
@@ -3014,7 +2919,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3033,7 +2938,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3052,7 +2957,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3071,7 +2976,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3090,7 +2995,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -3109,9 +3014,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "LB",
@@ -3128,7 +3033,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -3147,7 +3052,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3166,7 +3071,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -3185,7 +3090,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -3204,9 +3109,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "LB",
@@ -3223,7 +3128,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3242,8 +3147,27 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
+          "status_raw": "Out"
+        }
+      ],
+      "position": "DB",
+      "injury": null,
+      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
+    },
+    {
+      "conference": "B10",
+      "team": "Rutgers",
+      "player": "Kevin Levy",
+      "number": "7",
+      "opponent": "Michigan St.",
+      "game_date": "2026-11-28",
+      "week": null,
+      "updates": [
+        {
+          "label": "Update 2",
+          "status": "Out",
           "status_raw": "Out"
         }
       ],
@@ -3261,7 +3185,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3280,9 +3204,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "DB",
@@ -3299,7 +3223,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3318,7 +3242,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3337,7 +3261,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3356,7 +3280,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3375,7 +3299,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3394,7 +3318,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3413,7 +3337,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3432,7 +3356,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3451,7 +3375,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3470,7 +3394,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3489,7 +3413,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3508,7 +3432,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3527,7 +3451,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3546,7 +3470,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3565,7 +3489,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Doubtful",
           "status_raw": "Doubtful"
         }
@@ -3584,7 +3508,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3603,7 +3527,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3622,31 +3546,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "QB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "UCLA",
-      "player": "Riley Robell",
-      "number": "51",
-      "opponent": "Southern California",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Probable",
-          "status_raw": "Probable"
-        }
-      ],
-      "position": "OL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -3660,31 +3565,12 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
       ],
       "position": "OLB",
-      "injury": null,
-      "source_url": "https://app.hdintelligence.com/api/get-publish-public"
-    },
-    {
-      "conference": "B10",
-      "team": "UCLA",
-      "player": "Sam Yoon",
-      "number": "64",
-      "opponent": "Southern California",
-      "game_date": "2026-11-28",
-      "week": null,
-      "updates": [
-        {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
-        }
-      ],
-      "position": "OL",
       "injury": null,
       "source_url": "https://app.hdintelligence.com/api/get-publish-public"
     },
@@ -3698,7 +3584,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3717,7 +3603,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Questionable",
           "status_raw": "Questionable"
         }
@@ -3736,7 +3622,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3755,7 +3641,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -3774,7 +3660,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3793,9 +3679,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "DL",
@@ -3812,9 +3698,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "EDG",
@@ -3831,7 +3717,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -3850,9 +3736,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "K",
@@ -3869,7 +3755,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Probable",
           "status_raw": "Probable"
         }
@@ -3888,7 +3774,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out",
           "status_raw": "Out"
         }
@@ -3907,7 +3793,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3926,9 +3812,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Questionable",
-          "status_raw": "Questionable"
+          "label": "Update 2",
+          "status": "Probable",
+          "status_raw": "Probable"
         }
       ],
       "position": "EDG",
@@ -3945,7 +3831,7 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
+          "label": "Update 2",
           "status": "Out for Season",
           "status_raw": "Out"
         }
@@ -3964,9 +3850,9 @@
       "week": null,
       "updates": [
         {
-          "label": "Update 1",
-          "status": "Doubtful",
-          "status_raw": "Doubtful"
+          "label": "Update 2",
+          "status": "Out",
+          "status_raw": "Out"
         }
       ],
       "position": "RB",
@@ -3988,8 +3874,8 @@
       "team": "Minnesota",
       "opponent": "Wisconsin",
       "game_date": "2026-11-27",
-      "label": "Update 2",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-27T22:30:00Z"
     },
     {
       "conference": "B10",
@@ -4004,120 +3890,120 @@
       "team": "Wisconsin",
       "opponent": "Minnesota",
       "game_date": "2026-11-27",
-      "label": "Update 2",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Game Day",
+      "released_at": "2026-11-27T22:30:00Z"
     },
     {
       "conference": "B10",
       "team": "Illinois",
       "opponent": "Northwestern",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Indiana",
       "opponent": "Purdue",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Maryland",
       "opponent": "Penn St.",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Michigan",
       "opponent": "Ohio St.",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Michigan St.",
       "opponent": "Rutgers",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Northwestern",
       "opponent": "Illinois",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Ohio St.",
       "opponent": "Michigan",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Oregon",
       "opponent": "Washington",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Penn St.",
       "opponent": "Maryland",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Purdue",
       "opponent": "Indiana",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Rutgers",
       "opponent": "Michigan St.",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Southern California",
       "opponent": "UCLA",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "UCLA",
       "opponent": "Southern California",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     },
     {
       "conference": "B10",
       "team": "Washington",
       "opponent": "Oregon",
       "game_date": "2026-11-28",
-      "label": "Update 1",
-      "released_at": "2026-11-27T01:00:00Z"
+      "label": "Update 2",
+      "released_at": "2026-11-28T01:00:00Z"
     }
   ]
 }
